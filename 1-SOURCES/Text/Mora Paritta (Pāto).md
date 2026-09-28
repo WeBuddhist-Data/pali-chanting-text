@@ -1,5 +1,5 @@
 ---
-title: Mora Paritta (Pāto)
+title: Mora Paritta (pratah)
 alt_titles: मोर परित्त (सुबह)
 language: Pali
 file_type: root-text
@@ -9,12 +9,12 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: BvBQVJBO3scGA7D7eeLsR
-edition_id: 66TDYMWp8y105FHJaTJgi
-toc_id: yToiIYc71W3QpaHIkkOUO
+text_id: fieHnGV2Z2dsOrmWg6SUk
+edition_id: sT1zKxCHzMdot01nuwdXI
+toc_id: s0OkVdWQUgvP5zZY6D0za
 ---
 
-# Mora Paritta (Pāto) ^0
+# Mora Paritta (pratah) ^0
 
 Udetayaṃ cakkhumā ekarājā, harissavaṇṇo pathavippabhāso. ^0-1
 
