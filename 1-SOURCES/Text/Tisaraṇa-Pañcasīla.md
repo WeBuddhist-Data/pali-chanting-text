@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: oAwRbxyBDYmfLWncepgTg
 edition_id: fMZUCEo1BzwPmtonyLo9z
 toc_id: zRdJYjxGAkLTKwoDBFIOH
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Tisaraṇa-Pañcasīla ^0

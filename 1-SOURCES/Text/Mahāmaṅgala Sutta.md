@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: VY1eZ4RHj7r59iXtAKJQS
 edition_id: SfLOKqHiV8Zes4hAr1OFZ
 toc_id: QbMDQiNIPkma3y95aR5B6
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Mahāmaṅgala Sutta ^0

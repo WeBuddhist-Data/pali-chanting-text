@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: jPWTZkWkaQBAkmOF5kUzz
 edition_id: igtJv4yldSPEQsd6fbdOp
 toc_id: 4HP2ridygQtykFxobMvf2
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Pañcasīla Yācanā ^0

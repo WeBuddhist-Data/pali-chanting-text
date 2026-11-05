@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: en6G0g5RrnsHwW2lt6OgF
 edition_id: 5DcfI834YV1LPFRm8dQL7
 toc_id: 6bMnCeBo50Dh8M3ahNDGB
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Salla Sutta ^0

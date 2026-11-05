@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: ERRwNaEbAc9t1rj8hXfX4
 edition_id: AM93ajDmf2MWVW1B6yULq
 toc_id: ABuJwZPPlRkCfFfmE0tyD
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Tisaraṇa Aṭṭhasīla ^0

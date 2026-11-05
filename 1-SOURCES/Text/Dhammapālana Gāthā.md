@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: VcTwZL1PIesc1EnB4uzw3
 edition_id: OzUp70tsLLVDbWlR1F9zD
 toc_id: pmWjwHoLPWv1fNLxV5BM3
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Dhammapālana Gāthā ^0

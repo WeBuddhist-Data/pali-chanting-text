@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: gegvZUWqD78zgQZ293CAf
 edition_id: XRPwF7fGegVUdJcINHS7H
 toc_id: 0HgO2DntCZhFl6SdEigLu
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Paṭiccasamuppāda ^0

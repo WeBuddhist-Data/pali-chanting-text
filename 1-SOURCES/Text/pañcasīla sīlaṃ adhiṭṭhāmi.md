@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: CVrI7fH1EM24r8H9SzYoP
 edition_id: VpJS1e5RmiHmmqwYktqDq
 toc_id: CTHj9J3GOdWSOS30i2Stv
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # pañcasīla sīlaṃ adhiṭṭhāmi ^0

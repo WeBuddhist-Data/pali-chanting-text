@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: 1UCgBGDtXUjPQSMaevyzd
 edition_id: dE5CqopcL2UF4E8IRBV6t
 toc_id: srYZO0t2MxlBn5OUbr2NB
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Khandha Paritta ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: 1OnAqinSKzDBTxS1gVQZK
 edition_id: t7oVpfyP7vyhKIlzs0ktv
 toc_id: ilGvZJisbw7VxGef5cRj4
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Buddha Vandanā ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: EFeYpFd2bbHScwhMEUJnb
 edition_id: xyvcvvOAEq9wmV8H7vq6C
 toc_id: NwwCdxAGDudLXHekLVLjN
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Ratanattaya Vandanā ^0

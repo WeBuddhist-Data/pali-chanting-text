@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: yxospZpTKRJi7GSEVCDfd
 edition_id: CaDVQX7rftfmCkJWTP4Q5
 toc_id: MdF9sf9YWT6WdyeMjveKx
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Jayamaṅgala Aṭṭhagāthā ^0

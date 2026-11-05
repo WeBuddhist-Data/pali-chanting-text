@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: QeE6ELQy5IXd9JBO4f1Hg
 edition_id: UWPXbKX1xxwJWIOUBhyGq
 toc_id: fFkPaUmojsXnxsOsNI13K
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Nava-guṇa Gāthā ^0

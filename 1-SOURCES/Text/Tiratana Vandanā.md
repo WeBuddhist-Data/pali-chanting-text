@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: O4sHMF3VeP8Oehj0d7lFU
 edition_id: 39RmO3NOGOg29CwIT00cd
 toc_id: To0xCR3syctSqCTVnfCVS
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Tiratana Vandanā ^0

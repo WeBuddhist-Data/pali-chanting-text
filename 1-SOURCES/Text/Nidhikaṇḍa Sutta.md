@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: okdm7WAZt1EmKvT59CIei
 edition_id: vwiwZfS0GxI5NFRzR2nwG
 toc_id: AqwcCTikb7oqhZ7BWeNMy
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Nidhikaṇḍa Sutta ^0

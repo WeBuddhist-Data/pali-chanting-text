@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: ZAHffXYam27g9S6KrYA0l
 edition_id: VHKHOJcdZ9HBaZHEaMsdr
 toc_id: ypY4ecbJSIgAJZdSHQIEb
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Bodhi Pūjā ^0

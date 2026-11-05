@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: wPB1K8sEghCusD1JJrAJs
 edition_id: RLYJ0zt16vAkUxwbDopBt
 toc_id: gvwwwvqWtVgVppsYNT262
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Bodhisattaguṇaṃ ^0

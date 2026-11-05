@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: IVycSTk6Ox2GWLsDwjWn5
 edition_id: BD1yy3X73uMvuIOZL5ihm
 toc_id: KCnVJiowQd65tXvgtea65
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Jinapañjara Paritta ^0

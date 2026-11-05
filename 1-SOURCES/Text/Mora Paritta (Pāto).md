@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: fieHnGV2Z2dsOrmWg6SUk
 edition_id: sT1zKxCHzMdot01nuwdXI
 toc_id: s0OkVdWQUgvP5zZY6D0za
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Mora Paritta (pratah) ^0

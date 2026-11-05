@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: DMCJtYZFZahYHMFgJABu2
 edition_id: nUZ9O9IpaKLqxpbmqPCCE
 toc_id: Q0E9w8qIk4ODyELaixnIs
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Mora Paritta (Sāyaṃkālīna) ^0

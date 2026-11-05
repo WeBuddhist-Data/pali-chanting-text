@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: 2xvdGX0TMU8g2nLyogoKw
 edition_id: 24L8siXilLp0f3X599qGp
 toc_id: QEie8TOU8ZwY1nrrmPTaF
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Saṅkappo ^0

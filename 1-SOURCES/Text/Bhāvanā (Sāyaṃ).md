@@ -13,6 +13,7 @@ bdrc_work_id:
 text_id: JXhND3LnRTHt4KtnOXk2z
 edition_id: jmF4tXwwbZiHPzwg1oAik
 toc_id: uVuu89KKPlZ1WfcopoJpF
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Bhāvanā ^0

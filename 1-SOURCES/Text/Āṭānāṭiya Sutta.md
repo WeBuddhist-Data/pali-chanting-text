@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: GK9ewXDGOALYN8Ju0ZpRb
 edition_id: M3YijjopKhTUmrZTNEauX
 toc_id: RstR5gHzqqFOJwceHaig9
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Āṭānāṭiya Sutta ^0

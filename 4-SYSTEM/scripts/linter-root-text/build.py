@@ -5,23 +5,36 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from constants import SCHEMA_FIELDS, LANG_TAG_MAP, LANGUAGE_VALUES
-from lookup import lookup_person
 from validate import validate_text_input, resolve_language
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 
 _WYLIE_RE = __import__('re').compile(r"'[a-zA-Z]")
 
-# Title/alt_titles script tags (may differ from language code).
-# Sanskrit content is IAST; language field stays "sa".
-_TITLE_LANG_KEYS = {
-    "sa": "sa-x-iast",
-}
 
+def _relative_source(path):
+    """Return path relative to cwd (project root), using forward slashes."""
+    resolved = path.resolve()
+    try:
+        return resolved.relative_to(Path.cwd().resolve()).as_posix()
+    except ValueError:
+        return Path(path).as_posix()
 
-def _title_lang_key(vault_tag):
-    base = LANG_TAG_MAP.get(vault_tag, vault_tag) or "default"
-    return _TITLE_LANG_KEYS.get(base, base)
+def _title_lang_key(data):
+    """Key for title/alt_titles: the text's own language code, as-is.
+
+    No script suffix is added (Sanskrit is "sa", Pali is "pi"). Uses lang_tag,
+    or the resolved `language` when lang_tag is not set.
+    """
+    vault_tag = data.get("lang_tag") or ""
+    if vault_tag:
+        return LANG_TAG_MAP.get(vault_tag, vault_tag)
+    raw_lang = data.get("language")
+    if isinstance(raw_lang, str) and raw_lang.strip():
+        code, _ = resolve_language(raw_lang)
+        if code:
+            return code
+    return "default"
 
 def _wylie_to_unicode(text, lang_tag):
     if lang_tag != "bo":
@@ -42,15 +55,24 @@ def _wylie_to_unicode(text, lang_tag):
 
 
 def _convert_bo_entry(entry):
-    """Convert bo-x-ewts or bo keys in a title/alt_title dict to Tibetan Unicode."""
+    """Normalize a {lang: title} dict.
+
+    Script-suffixed keys of a known language (e.g. "sa-x-iast", "pi-x-iast")
+    become the plain language code. Tibetan values in Wylie are converted to
+    Unicode.
+    """
     if not isinstance(entry, dict):
         return entry
     new_entry = {}
     for k, v in entry.items():
-        if k in ("bo-x-ewts", "bo") and isinstance(v, str):
-            new_entry["bo"] = _wylie_to_unicode(v, "bo")
-        else:
-            new_entry[k] = v
+        key = k
+        if isinstance(k, str) and "-x-" in k:
+            base = k.split("-x-", 1)[0]
+            if base in LANGUAGE_VALUES:
+                key = base
+        if key == "bo" and isinstance(v, str):
+            v = _wylie_to_unicode(v, "bo")
+        new_entry[key] = v
     return new_entry
 
 
@@ -68,23 +90,23 @@ def build_text_input(data):
             title_obj = {}
             raw = data.get("title")
             if isinstance(raw, str) and raw.strip():
-                lang_key = _title_lang_key(vault_tag)
+                lang_key = _title_lang_key(data)
                 title_obj[lang_key] = raw
             elif isinstance(raw, dict):
                 title_obj = dict(raw)
             en_title = data.get("title in English") or data.get("title_in_english")
             if en_title and isinstance(en_title, str) and en_title.strip():
                 title_obj["en"] = en_title
-            # Convert bo-x-ewts or bo Wylie values to Unicode
+            # Normalize keys to plain language codes; Wylie → Tibetan Unicode
             payload["title"] = _convert_bo_entry(title_obj) if title_obj else None
 
         elif field == "alt_titles":
             # Accepted YAML forms:
             #   alt_titles: "one title"
             #   alt_titles: ["variant a", "variant b"]
-            # Both are wrapped with the title script tag (sa → sa-x-iast).
+            # Both are keyed by the text's language code (no script suffix).
             alt = data.get("alt_titles")
-            lang_key = _title_lang_key(vault_tag)
+            lang_key = _title_lang_key(data)
             if isinstance(alt, str) and alt.strip():
                 raw_alts = [{lang_key: alt.strip()}]
             elif isinstance(alt, list):
@@ -97,7 +119,7 @@ def build_text_input(data):
                         raw_alts.append(item)
             else:
                 raw_alts = alt
-            # Convert bo-x-ewts Wylie entries to Unicode and normalize key to "bo"
+            # Normalize keys to plain language codes; Wylie → Tibetan Unicode
             if isinstance(raw_alts, list):
                 payload["alt_titles"] = [_convert_bo_entry(e) for e in raw_alts]
             else:
@@ -151,37 +173,22 @@ def build_text_input(data):
                     contribs.append(entry)
                     continue
 
-                entry = {"type": "person", "role": role}
-
-                if id_match:
-                    id_source = id_match.group("source")
-                    id_value = id_match.group("id").strip()
-                    if id_source == "bdrc":
-                        entry["bdrc_id"] = id_value
-                    else:
-                        entry["id"] = id_value
-                else:
-                    person, warns = lookup_person(clean_name)
-                    person_warnings.extend(warns)
-                    resolved_author = None
-                    if person and person.get("names"):
-                        names = person["names"]
-                        doc_lang = LANG_TAG_MAP.get(vault_tag, vault_tag)
-                        resolved_author = names.get(doc_lang) or names.get("en") or next(iter(names.values()), None)
-                    if person:
-                        if person.get("bdrc_id"):
-                            entry["bdrc_id"] = person["bdrc_id"]
-                        elif person.get("id"):
-                            entry["id"] = person["id"]
-                    if resolved_author and "_resolved_author" not in payload:
-                        payload["_resolved_author"] = resolved_author
-
-                if not entry.get("id") and not entry.get("bdrc_id"):
+                # Persons are never looked up by name: an id must be given.
+                if not id_match:
                     label = clean_name or name
                     person_warnings.append(
-                        f"{role} {label!r} not found (no id) — skipped"
+                        f"{role} {label!r}: no BDRC or OP id provided "
+                        f"(add [bdrc:ID] or [op:ID]) — skipped"
                     )
                     continue
+
+                entry = {"type": "person", "role": role}
+                id_source = id_match.group("source")
+                id_value = id_match.group("id").strip()
+                if id_source == "bdrc":
+                    entry["bdrc_id"] = id_value
+                else:
+                    entry["id"] = id_value
 
                 contribs.append(entry)
 
@@ -219,7 +226,7 @@ def write_output(path, doc_info, items):
         out_path = OUTPUT_DIR / f"{stem}.lint.json"
         result = {
             "status": "ok",
-            "source": str(path.resolve()),
+            "source": _relative_source(path),
             "validated_at": timestamp,
             "notes": infos,
             "warnings": warns + person_warnings,
@@ -229,7 +236,7 @@ def write_output(path, doc_info, items):
         out_path = OUTPUT_DIR / f"{stem}.lint.errors.json"
         result = {
             "status": "error",
-            "source": str(path.resolve()),
+            "source": _relative_source(path),
             "validated_at": timestamp,
             "error_count": len(errors),
             "errors": errors,
@@ -262,7 +269,7 @@ def write_edition_output(path, doc_info, items):
         out_path = OUTPUT_DIR / f"{stem}.lint.json"
         result = {
             "status": "ok",
-            "source": str(path.resolve()),
+            "source": _relative_source(path),
             "validated_at": timestamp,
             "notes": infos,
             "warnings": warns + person_warnings,
@@ -272,7 +279,7 @@ def write_edition_output(path, doc_info, items):
         out_path = OUTPUT_DIR / f"{stem}.lint.errors.json"
         result = {
             "status": "error",
-            "source": str(path.resolve()),
+            "source": _relative_source(path),
             "validated_at": timestamp,
             "error_count": len(errors),
             "errors": errors,

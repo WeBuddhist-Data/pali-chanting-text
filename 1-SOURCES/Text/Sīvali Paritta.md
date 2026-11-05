@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: Jg73w7ay3kxsunOzoL3ph
 edition_id: bZVn69PGTFceWAseMqnPL
 toc_id: kh0eMYzvnU5QiLSge6HWP
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Sīvali Paritta ^0

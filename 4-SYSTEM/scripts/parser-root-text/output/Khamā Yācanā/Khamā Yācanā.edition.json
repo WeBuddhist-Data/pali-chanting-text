@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://webuddhist.com/"
+  },
+  "content": "Okāsa vandāmi bhante, dvārattayena mayā kataṃ sabbaṃ aparādhaṃ khamatha me bhante.Dutiyampi Okāsa vandāmi bhante, dvārattayena mayā kataṃ sabbaṃ aparādhaṃ khamatha me bhante.Tatiyampi Okāsa vandāmi bhante, dvārattayena mayā kataṃ sabbaṃ aparādhaṃ khamatha me bhante.",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 82
+          }
+        ],
+        "type": "verse",
+        "reference": "0-1"
+      },
+      {
+        "lines": [
+          {
+            "start": 82,
+            "end": 174
+          }
+        ],
+        "type": "verse",
+        "reference": "0-2"
+      },
+      {
+        "lines": [
+          {
+            "start": 174,
+            "end": 266
+          }
+        ],
+        "type": "verse",
+        "reference": "0-3"
+      }
+    ]
+  }
+}

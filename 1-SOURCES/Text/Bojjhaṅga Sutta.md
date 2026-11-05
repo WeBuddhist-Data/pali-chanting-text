@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: AIsyTpq5JtwJ78x8uT5GS
 edition_id: vYAMgZLQ9DEsAxxt3AgYp
 toc_id: zT0nCZBzr6UZk5iannqsn
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Bojjhaṅga Sutta ^0

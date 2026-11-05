@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: TPhRplU8DmAcbsSFxJUgN
 edition_id: fYBVuTuaLhrP8VMy1Ype5
 toc_id: GvhE30o5g3Ow2jCT8XlLt
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Gilānapaccaya Pūjā ^0

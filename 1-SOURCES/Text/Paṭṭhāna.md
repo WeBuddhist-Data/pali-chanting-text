@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: Tj2IIhQunEezdQQ49vXG4
 edition_id: 8nvXHepHzXrMJSfFwnNgY
 toc_id: ZmxCgy69LsLqwunDMD3Ov
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Paṭṭhāna ^0

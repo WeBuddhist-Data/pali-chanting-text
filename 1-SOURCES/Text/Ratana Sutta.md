@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: fOHHu8xfep3MGWEyqr6LX
 edition_id: pzNwgbg69sgXB1etql029
 toc_id: D6sTKCkBxiRwmPKlhP62m
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Ratana Sutta ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: sNZiwPC5ry6igFBXmkyb0
 edition_id: pLtYB2oKaVG3Wsd5cHL1l
 toc_id: JM2FQbxUM29z8DhJe1nhX
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Puññānumodanā ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: Gvu8LM2CRWhaGUFQC0BQH
 edition_id: 6If5xfx7XwUVAGmFq2OLl
 toc_id: MqCgQo7EOdVpgAB2skmBB
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Parābhava Sutta ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: hSkyAPunj0Dz2mwZoRF2Z
 edition_id: gFKfWQRH7JK4l13o65Q7L
 toc_id: PYqyHbAy7NPi0ckutklh8
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Udāna ^0

@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: 8nnwbaWO4NxzDBTgyTpDR
 edition_id: A8NO5zg20PwiOSzpYMf42
 toc_id: KZb4wBzoW6Q5UweVdy9hA
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Karaṇīya Mettā Sutta ^0

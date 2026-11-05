@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: kkRyPj9TR1TkQLKWhtbWC
 edition_id: Om567vfoUQook9J3euA3w
 toc_id: BoLXuwxTmfZThT7F07c28
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Aṭṭhavīsati Paritta ^0

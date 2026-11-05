@@ -12,6 +12,7 @@ bdrc_work_id:
 text_id: Gc79CgTMfVEiv6xrp6CF8
 edition_id: C9dvqkgeGeNrE7Nd3wl02
 toc_id: QgyWC8FAclJyjAVDtKUVn
+tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 
 # Mettā Bhāvanā ^0
