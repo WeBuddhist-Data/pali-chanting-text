@@ -12,10 +12,10 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
-translation_of: 
+text_id: pawGkDRXEHzxpUsb7myeb
+edition_id: IsYZOvEaolfUDHhx3LCSy
+toc_id: MOhZzr8MhogsTmcYYy70P
+translation_of: mEMpYnYXCBt4QSfznPHYh
 ---
 
 # वसल सुत्तं ^0
