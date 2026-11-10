@@ -10,10 +10,11 @@ the payloads it contains, in order:
     4. <stem>.alignment.json  PUT  /v2/editions/{edition_id}/alignments/{root_edition_id}
                                                                               -> 204
 
-Returned ids are recorded in ``<stem>.ids.json`` beside the payloads and, when
-the source ``.md`` can be located, patched into its YAML frontmatter as
-``text_id`` / ``edition_id`` / ``toc_id``. Either record makes a second run a
-no-op instead of a duplicate; ``--force`` overrides.
+Returned ids are patched into the source ``.md``'s YAML frontmatter as
+``text_id`` / ``edition_id`` / ``toc_id``; nothing is written to the payload
+folder. That record makes a second run a no-op instead of a duplicate;
+``--force`` overrides. If the source ``.md`` cannot be located, the ids are
+only printed — copy them into the frontmatter by hand.
 
 Step 4 runs only when the folder holds an alignment payload (translations and
 commentaries). It needs the ROOT text's ``edition_id``, taken from the file
@@ -156,23 +157,9 @@ def _patch_frontmatter(path, updates):
     return changed
 
 
-def _ids_path(payload_dir, stem):
-    return payload_dir / f"{stem}.ids.json"
-
-
 def _load_known_ids(payload_dir, stem, source_md):
-    """Ids already assigned: the source .md wins, the sidecar is the fallback."""
+    """Ids already assigned, read from the source .md's frontmatter."""
     ids = {}
-    sidecar = _ids_path(payload_dir, stem)
-    if sidecar.exists():
-        try:
-            data = json.loads(sidecar.read_text(encoding="utf-8"))
-        except ValueError:
-            data = {}
-        for key in ID_KEYS:
-            val = str(data.get(key) or "").strip()
-            if val:
-                ids[key] = val
     if source_md is not None:
         fm = _read_frontmatter(source_md)
         for key in ID_KEYS:
@@ -183,17 +170,16 @@ def _load_known_ids(payload_dir, stem, source_md):
 
 
 def _save_ids(payload_dir, stem, source_md, result):
-    sidecar = _ids_path(payload_dir, stem)
-    sidecar.write_text(
-        json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
+    if source_md is None:
+        print("  WARN  source .md not found — ids NOT saved; add them to its frontmatter:")
+        for key in ID_KEYS:
+            print(f"          {key}: {result.get(key) or ''}")
+        return
+    changed = _patch_frontmatter(
+        source_md, {k: result.get(k) for k in ID_KEYS}
     )
-    print(f"  WROTE {sidecar.name}")
-    if source_md is not None:
-        changed = _patch_frontmatter(
-            source_md, {k: result.get(k) for k in ID_KEYS}
-        )
-        if changed:
-            print(f"  PATCHED {source_md.name}: {', '.join(changed)}")
+    if changed:
+        print(f"  PATCHED {source_md.name}: {', '.join(changed)}")
 
 
 def _resolve_path_near(val, source_path):
@@ -304,7 +290,7 @@ def upload(payload_dir, stem, source_md, base_url, api_key, dry_run=False,
 
     print(f"\n=== {stem} ===")
     print(f"    payloads: {payload_dir}")
-    print(f"    source  : {source_md if source_md else '(not found — ids go to the sidecar only)'}")
+    print(f"    source  : {source_md if source_md else '(not found — ids will only be printed)'}")
 
     if recreate:
         old = _load_known_ids(payload_dir, stem, source_md)
@@ -326,10 +312,6 @@ def upload(payload_dir, stem, source_md, base_url, api_key, dry_run=False,
                     print(f"        HTTP {status}")
             if not dry_run:
                 cleared = _patch_frontmatter(source_md, {k: "" for k in ID_KEYS}) if source_md else []
-                sidecar = _ids_path(payload_dir, stem)
-                if sidecar.exists():
-                    sidecar.unlink()
-                    print(f"  REMOVED {sidecar.name}")
                 if cleared:
                     print(f"  CLEARED {source_md.name}: {', '.join(cleared)}")
         force = True

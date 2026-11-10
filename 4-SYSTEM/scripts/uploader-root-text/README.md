@@ -13,7 +13,6 @@ A **parser output folder** — everything the uploader needs is in it:
     तिसरण–पञ्चशील_hi.edition.json     -> step 2
     तिसरण–पञ्चशील_hi.toc.json         -> step 3
     तिसरण–पञ्चशील_hi.alignment.json   -> step 4 (translations/commentaries only)
-    तिसरण–पञ्चशील_hi.ids.json         <- written back by this script
 ```
 
 A source `.md` path or a bare stem is also accepted; both resolve to the same
@@ -114,8 +113,7 @@ which, in order:
    `DELETE /v2/texts/{id}` refuses while the text still has editions. This also
    removes that edition's TOC, segmentation and alignments
 2. `DELETE /v2/texts/{text_id}`
-3. clears `text_id` / `edition_id` / `toc_id` in the source `.md` and deletes
-   the `<stem>.ids.json` sidecar
+3. clears `text_id` / `edition_id` / `toc_id` in the source `.md`
 4. runs the normal create flow, so the `POST` body now carries `translation_of`
 
 **Everything gets new ids.** Anything referencing the old edition id — an
@@ -133,9 +131,10 @@ python … upload.py --dry-run --recreate "…\output\<stem>"
 - Step 4 is skipped with a warning, not an error, when there is no
   `alignment.json` (root texts), when `root_text:` cannot be resolved, or when
   the root has no `edition_id` yet
-- Ids are recorded in `<stem>.ids.json` inside the payload folder **and** in the
-  source `.md` frontmatter. Either one makes a re-run skip that step; the
-  frontmatter wins when they disagree
+- Ids are recorded only in the source `.md` frontmatter (`text_id` /
+  `edition_id` / `toc_id`); nothing is written to the payload folder. A set id
+  makes a re-run skip that step. If the source `.md` cannot be found, the ids
+  are printed with a warning and must be copied into the frontmatter by hand
 - The frontmatter patch preserves the file's existing line endings, so a CRLF
   file does not turn into a whole-file diff
 - Any non-2xx response aborts that file and prints the API's error body — the
