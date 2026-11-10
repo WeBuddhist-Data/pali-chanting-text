@@ -1,0 +1,127 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Vyagghapajja (Dīghajāṇu) Suttaṃ"
+      },
+      "span": {
+        "start": 0,
+        "end": 4299
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Diṭṭhadhammāya cattāro dhammā"
+          },
+          "span": {
+            "start": 574,
+            "end": 2794
+          },
+          "subsections": [
+            {
+              "title": {
+                "pi": "Uṭṭhānasampadā"
+              },
+              "span": {
+                "start": 745,
+                "end": 1085
+              }
+            },
+            {
+              "title": {
+                "pi": "Ārakkhasampadā"
+              },
+              "span": {
+                "start": 1085,
+                "end": 1445
+              }
+            },
+            {
+              "title": {
+                "pi": "Kalyāṇamittatā"
+              },
+              "span": {
+                "start": 1445,
+                "end": 1806
+              }
+            },
+            {
+              "title": {
+                "pi": "Samajīvitā"
+              },
+              "span": {
+                "start": 1806,
+                "end": 2175
+              }
+            },
+            {
+              "title": {
+                "pi": "Bhogāpāyamukhāni cattāri"
+              },
+              "span": {
+                "start": 2175,
+                "end": 2794
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "pi": "Samparāyahitāya cattāro dhammā"
+          },
+          "span": {
+            "start": 2794,
+            "end": 3939
+          },
+          "subsections": [
+            {
+              "title": {
+                "pi": "Saddhāsampadā"
+              },
+              "span": {
+                "start": 2954,
+                "end": 3257
+              }
+            },
+            {
+              "title": {
+                "pi": "Sīlasampadā"
+              },
+              "span": {
+                "start": 3257,
+                "end": 3516
+              }
+            },
+            {
+              "title": {
+                "pi": "Cāgasampadā"
+              },
+              "span": {
+                "start": 3516,
+                "end": 3731
+              }
+            },
+            {
+              "title": {
+                "pi": "Paññāsampadā"
+              },
+              "span": {
+                "start": 3731,
+                "end": 3939
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "pi": "Samāpana gāthā"
+          },
+          "span": {
+            "start": 3939,
+            "end": 4299
+          }
+        }
+      ]
+    }
+  ]
+}

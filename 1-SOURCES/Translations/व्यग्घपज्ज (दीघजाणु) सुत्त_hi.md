@@ -12,10 +12,10 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
-translation_of: 
+text_id: 17c6RGinISW3aeeKltEQ3
+edition_id: j6HglFNaIlk3xV48tfBwX
+toc_id: lJNNNGMnqtf6YgTI6X6s0
+translation_of: omOtmqQAqhh2UJBe5MpZ9
 ---
 
 # व्यग्घपज्ज (दीघजाणु) सुत्त ^0
