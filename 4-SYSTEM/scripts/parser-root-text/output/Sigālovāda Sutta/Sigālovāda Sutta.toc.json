@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Sigālovāda Sutta"
+      },
+      "span": {
+        "start": 0,
+        "end": 5443
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Evaṃ cha disā namassitabbā"
+          },
+          "span": {
+            "start": 944,
+            "end": 1152
+          }
+        },
+        {
+          "title": {
+            "pi": "Gahapatissa cattāro kammakilesā"
+          },
+          "span": {
+            "start": 1152,
+            "end": 1502
+          }
+        },
+        {
+          "title": {
+            "pi": "Channaṃ disānaṃ pūjanaṃ"
+          },
+          "span": {
+            "start": 1502,
+            "end": 1831
+          }
+        },
+        {
+          "title": {
+            "pi": "Mātāpitaro — puratthimā disā"
+          },
+          "span": {
+            "start": 1831,
+            "end": 2374
+          }
+        },
+        {
+          "title": {
+            "pi": "Ācariyā — dakkhiṇā disā"
+          },
+          "span": {
+            "start": 2374,
+            "end": 2867
+          }
+        },
+        {
+          "title": {
+            "pi": "Bhariyā — pacchimā disā"
+          },
+          "span": {
+            "start": 2867,
+            "end": 3353
+          }
+        },
+        {
+          "title": {
+            "pi": "Mittāmaccā — uttarā disā"
+          },
+          "span": {
+            "start": 3353,
+            "end": 3513
+          }
+        },
+        {
+          "title": {
+            "pi": "Dāsakammakarā — heṭṭhimā disā"
+          },
+          "span": {
+            "start": 3513,
+            "end": 3971
+          }
+        },
+        {
+          "title": {
+            "pi": "Samaṇabrāhmaṇā — uparimā disā"
+          },
+          "span": {
+            "start": 3971,
+            "end": 4495
+          }
+        },
+        {
+          "title": {
+            "pi": "Pariniṭṭhāna Gāthā"
+          },
+          "span": {
+            "start": 4495,
+            "end": 5257
+          }
+        },
+        {
+          "title": {
+            "pi": "Sigālakassa Saraṇagamanaṃ"
+          },
+          "span": {
+            "start": 5257,
+            "end": 5443
+          }
+        }
+      ]
+    }
+  ]
+}

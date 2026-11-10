@@ -13,10 +13,10 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
-translation_of: 
+text_id: kchUaezfPyYbEH3ylRsVV
+edition_id: eUBWztHx0MR2aD7RPmptb
+toc_id: gEEOnM7oPCfRbCZA7EPDU
+translation_of: vZZiZoce3TnyrUmZdtoLr
 ---
 
 # सिगालोवाद सुत्तं ^0

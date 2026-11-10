@@ -17,3 +17,6 @@
 # Python bytecode caches (scripts/)
 __pycache__/
 *.pyc
+
+# Local secrets (API keys) — never commit
+.env
