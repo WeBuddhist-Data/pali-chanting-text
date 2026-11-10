@@ -10,9 +10,9 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
+text_id: HiSj1CGOZIAxKbH1Oc8F2
+edition_id: I5GzId1op96f35Y9hXEVo
+toc_id: RUEBtHNdGzpQm3Qg1BEAj
 tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 ---
 

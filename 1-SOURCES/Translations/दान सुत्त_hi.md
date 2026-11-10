@@ -12,10 +12,10 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
-translation_of: 
+text_id: AXgo8vt29aVAVlcUCDRDx
+edition_id: 1YNKZ9NaEfidJ8TzU9qaM
+toc_id: Ug1z2yyoxMCvPTek6inQl
+translation_of: HiSj1CGOZIAxKbH1Oc8F2
 ---
 
 # दान सुत्त ^0
