@@ -13,10 +13,10 @@ source: https://webuddhist.com/
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
-translation_of: 
+text_id: xapk5IudkIkhGXSG6ehHF
+edition_id: 58bhSPb9bTNdU2rgskkCI
+toc_id: CluJJNAtiT31LiveWW0Ac
+translation_of: XCZmaTUsrjVhqTymq5ZVt
 ---
 
 # वित्थतधन सुत्तं ^0
