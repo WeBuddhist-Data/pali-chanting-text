@@ -1,0 +1,249 @@
+{
+  "sections": [
+    {
+      "title": {
+        "en": "The Dhammapada"
+      },
+      "span": {
+        "start": 0,
+        "end": 61923
+      },
+      "subsections": [
+        {
+          "title": {
+            "en": "The Twin-Verses"
+          },
+          "span": {
+            "start": 0,
+            "end": 3145
+          }
+        },
+        {
+          "title": {
+            "en": "On Earnestness"
+          },
+          "span": {
+            "start": 3145,
+            "end": 4948
+          }
+        },
+        {
+          "title": {
+            "en": "Thought"
+          },
+          "span": {
+            "start": 4948,
+            "end": 6569
+          }
+        },
+        {
+          "title": {
+            "en": "Flowers"
+          },
+          "span": {
+            "start": 6569,
+            "end": 8909
+          }
+        },
+        {
+          "title": {
+            "en": "The Fool"
+          },
+          "span": {
+            "start": 8909,
+            "end": 11290
+          }
+        },
+        {
+          "title": {
+            "en": "The Wise Man (Pandita)"
+          },
+          "span": {
+            "start": 11290,
+            "end": 13486
+          }
+        },
+        {
+          "title": {
+            "en": "The Venerable (Arhat)"
+          },
+          "span": {
+            "start": 13486,
+            "end": 15004
+          }
+        },
+        {
+          "title": {
+            "en": "The Thousands"
+          },
+          "span": {
+            "start": 15004,
+            "end": 17281
+          }
+        },
+        {
+          "title": {
+            "en": "Evil"
+          },
+          "span": {
+            "start": 17281,
+            "end": 19133
+          }
+        },
+        {
+          "title": {
+            "en": "Punishment"
+          },
+          "span": {
+            "start": 19133,
+            "end": 21432
+          }
+        },
+        {
+          "title": {
+            "en": "Old Age"
+          },
+          "span": {
+            "start": 21432,
+            "end": 23033
+          }
+        },
+        {
+          "title": {
+            "en": "Self"
+          },
+          "span": {
+            "start": 23033,
+            "end": 24469
+          }
+        },
+        {
+          "title": {
+            "en": "The World"
+          },
+          "span": {
+            "start": 24469,
+            "end": 26018
+          }
+        },
+        {
+          "title": {
+            "en": "The Buddha (The Awakened)"
+          },
+          "span": {
+            "start": 26018,
+            "end": 28588
+          }
+        },
+        {
+          "title": {
+            "en": "Happiness"
+          },
+          "span": {
+            "start": 28588,
+            "end": 30224
+          }
+        },
+        {
+          "title": {
+            "en": "Pleasure"
+          },
+          "span": {
+            "start": 30224,
+            "end": 31785
+          }
+        },
+        {
+          "title": {
+            "en": "Anger"
+          },
+          "span": {
+            "start": 31785,
+            "end": 33659
+          }
+        },
+        {
+          "title": {
+            "en": "Impurity"
+          },
+          "span": {
+            "start": 33659,
+            "end": 36712
+          }
+        },
+        {
+          "title": {
+            "en": "The Just"
+          },
+          "span": {
+            "start": 36712,
+            "end": 38931
+          }
+        },
+        {
+          "title": {
+            "en": "The Way"
+          },
+          "span": {
+            "start": 38931,
+            "end": 41413
+          }
+        },
+        {
+          "title": {
+            "en": "Miscellaneous"
+          },
+          "span": {
+            "start": 41413,
+            "end": 43676
+          }
+        },
+        {
+          "title": {
+            "en": "The Downward Course"
+          },
+          "span": {
+            "start": 43676,
+            "end": 45829
+          }
+        },
+        {
+          "title": {
+            "en": "The Elephant"
+          },
+          "span": {
+            "start": 45829,
+            "end": 47920
+          }
+        },
+        {
+          "title": {
+            "en": "Thirst"
+          },
+          "span": {
+            "start": 47920,
+            "end": 52449
+          }
+        },
+        {
+          "title": {
+            "en": "The Bhikshu (Mendicant)"
+          },
+          "span": {
+            "start": 52449,
+            "end": 55810
+          }
+        },
+        {
+          "title": {
+            "en": "The Brahmana (Arhat)"
+          },
+          "span": {
+            "start": 55810,
+            "end": 61923
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "D:/Work/OpenPecha/pali-chanting-text/1-SOURCES/Translations/english/The Dhammapada.md",
+  "validated_at": "2026-11-11T06:12:09.966350+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/Dhammapada.md'",
+    "source: source = 'https://www.globalgreyebooks.com/dhammapada-ebook.html'",
+    "toc: 27 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "translator 'F. Max Muller': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The Dhammapada"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "1znIT45ZQJf1gpd1lpaE1",
+    "category_id": "XfCwZpoJMtfO7s0laQkdK",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl",
+      "FZ5STsdU0eLvo7Nb2CpvH"
+    ]
+  }
+}

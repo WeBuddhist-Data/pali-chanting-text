@@ -1,0 +1,249 @@
+{
+  "sections": [
+    {
+      "title": {
+        "pi": "Dhammapada"
+      },
+      "span": {
+        "start": 0,
+        "end": 40810
+      },
+      "subsections": [
+        {
+          "title": {
+            "pi": "Yamakavagga"
+          },
+          "span": {
+            "start": 0,
+            "end": 2124
+          }
+        },
+        {
+          "title": {
+            "pi": "Appamādavagga"
+          },
+          "span": {
+            "start": 2124,
+            "end": 3212
+          }
+        },
+        {
+          "title": {
+            "pi": "Cittavagga"
+          },
+          "span": {
+            "start": 3212,
+            "end": 4207
+          }
+        },
+        {
+          "title": {
+            "pi": "Pupphavagga"
+          },
+          "span": {
+            "start": 4207,
+            "end": 5691
+          }
+        },
+        {
+          "title": {
+            "pi": "Bālavagga"
+          },
+          "span": {
+            "start": 5691,
+            "end": 7217
+          }
+        },
+        {
+          "title": {
+            "pi": "Paṇḍitavagga"
+          },
+          "span": {
+            "start": 7217,
+            "end": 8599
+          }
+        },
+        {
+          "title": {
+            "pi": "Arahantavagga"
+          },
+          "span": {
+            "start": 8599,
+            "end": 9589
+          }
+        },
+        {
+          "title": {
+            "pi": "Sahassavagga"
+          },
+          "span": {
+            "start": 9589,
+            "end": 11107
+          }
+        },
+        {
+          "title": {
+            "pi": "Pāpavagga"
+          },
+          "span": {
+            "start": 11107,
+            "end": 12471
+          }
+        },
+        {
+          "title": {
+            "pi": "Daṇḍavagga"
+          },
+          "span": {
+            "start": 12471,
+            "end": 14129
+          }
+        },
+        {
+          "title": {
+            "pi": "Jarāvagga"
+          },
+          "span": {
+            "start": 14129,
+            "end": 15181
+          }
+        },
+        {
+          "title": {
+            "pi": "Attavagga"
+          },
+          "span": {
+            "start": 15181,
+            "end": 16162
+          }
+        },
+        {
+          "title": {
+            "pi": "Lokavagga"
+          },
+          "span": {
+            "start": 16162,
+            "end": 17278
+          }
+        },
+        {
+          "title": {
+            "pi": "Buddhavagga"
+          },
+          "span": {
+            "start": 17278,
+            "end": 18989
+          }
+        },
+        {
+          "title": {
+            "pi": "Sukhavagga"
+          },
+          "span": {
+            "start": 18989,
+            "end": 20118
+          }
+        },
+        {
+          "title": {
+            "pi": "Piyavagga"
+          },
+          "span": {
+            "start": 20118,
+            "end": 21189
+          }
+        },
+        {
+          "title": {
+            "pi": "Kodhavagga"
+          },
+          "span": {
+            "start": 21189,
+            "end": 22489
+          }
+        },
+        {
+          "title": {
+            "pi": "Malavagga"
+          },
+          "span": {
+            "start": 22489,
+            "end": 24509
+          }
+        },
+        {
+          "title": {
+            "pi": "Dhammaṭṭhavagga"
+          },
+          "span": {
+            "start": 24509,
+            "end": 26035
+          }
+        },
+        {
+          "title": {
+            "pi": "Maggavagga"
+          },
+          "span": {
+            "start": 26035,
+            "end": 27713
+          }
+        },
+        {
+          "title": {
+            "pi": "Pakiṇṇakavagga"
+          },
+          "span": {
+            "start": 27713,
+            "end": 29237
+          }
+        },
+        {
+          "title": {
+            "pi": "Nirayavagga"
+          },
+          "span": {
+            "start": 29237,
+            "end": 30610
+          }
+        },
+        {
+          "title": {
+            "pi": "Nāgavagga"
+          },
+          "span": {
+            "start": 30610,
+            "end": 32066
+          }
+        },
+        {
+          "title": {
+            "pi": "Taṇhāvagga"
+          },
+          "span": {
+            "start": 32066,
+            "end": 34769
+          }
+        },
+        {
+          "title": {
+            "pi": "Bhikkhuvagga"
+          },
+          "span": {
+            "start": 34769,
+            "end": 36982
+          }
+        },
+        {
+          "title": {
+            "pi": "Brāhmaṇavagga"
+          },
+          "span": {
+            "start": 36982,
+            "end": 40810
+          }
+        }
+      ]
+    }
+  ]
+}
