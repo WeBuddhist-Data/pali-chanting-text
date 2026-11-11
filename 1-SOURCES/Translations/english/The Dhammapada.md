@@ -16,10 +16,10 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
-translation_of: 1znIT45ZQJf1gpd1lpaE1
-text_id: cFTgBog7dL3twFeO88ZDQ
-edition_id: chyC8G2nXLRhYoqCqZGg0
-toc_id: t152cGdJidzVuVExIN55q
+translation_of: UuRrxK8JmoqsfHBYYZDqs
+text_id: BRDLwpwmbRLMQ9xUd0xIJ
+edition_id: aO3Mq27HNGjt78z1ltdhF
+toc_id: oF1P4S7OQGLHxzATChZQn
 ---
 
 # The Dhammapada ^0

@@ -14,9 +14,9 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
-text_id: 1znIT45ZQJf1gpd1lpaE1
-edition_id: qca1jNDMlJs7JVc4uI0Kd
-toc_id: YpONPXXXuS1ThENOAQyUu
+text_id: UuRrxK8JmoqsfHBYYZDqs
+edition_id: LvmnEdGw1zOm3E9akJDlD
+toc_id: w0iEXQ1S8xkgiNzlnN9CX
 ---
 
 # Dhammapada ^0
