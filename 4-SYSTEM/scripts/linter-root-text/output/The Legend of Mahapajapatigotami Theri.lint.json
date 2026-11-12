@@ -1,18 +1,17 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Translations/english/The Legend of Mahapajapatigotami Theri.md",
-  "validated_at": "2026-11-12T04:57:20.170532+00:00",
+  "validated_at": "2026-11-12T05:04:52.735298+00:00",
   "notes": [
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
     "root_text: '1-SOURCES/Text/Mahāpajāpatigotamītherīapadānaṃ.md'",
     "source: source = 'http://www.apadanatranslation.org/text/chapter-4/poem-017/'",
-    "durchens: 0 from 0 durchen definition(s); footnotes: 119 from 119 footnote definition(s), placed by position",
+    "durchens: 0 from 0 durchen definition(s); footnotes: 120 from 120 footnote definition(s), placed by position",
     "toc: 1 headers found"
   ],
   "warnings": [
-    "[^fN] markers are not numbered 1, 2, 3… in text order: marker 1 is [^f2], expected [^f1]",
     "translator 'Jonathan S. Walters': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
   ],
   "text_input": {

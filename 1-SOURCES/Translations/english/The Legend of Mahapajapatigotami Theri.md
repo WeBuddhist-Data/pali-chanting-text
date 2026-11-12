@@ -6,7 +6,7 @@ file_type: "translation"
 lang_tag: "en"
 verse_id_format: "chapter-verse"
 root_text: "1-SOURCES/Text/Mahāpajāpatigotamītherīapadānaṃ.md"
-source_description: "Jonathan S. Walters' English translation, Legends of the Buddhist Saints: Apadānapāli (Whitman College, 2018), poem 17, from http://www.apadanatranslation.org/text/chapter-4/poem-017/ (downloaded 2026-11-12; raw copy 0-INBOX/temp/apadana/walters-poem-017.html), released under CC BY-NC-SA 4.0. The same translation is printed in A Little Lumbini Reader (Dominic Chua, 2023), received from a Buddha's Words recitation day. Walters follows the Sri Lankan Buddha Jayanti edition; the root linked here is VRI's Chaṭṭha Saṅgāyana text, so stanzas are aligned by meaning (match list: 0-INBOX/temp/apadana/match-list.md). Layout: one block per stanza with its lines; block IDs ^1-k number Walters' stanzas in order; his verse numbers (bracketed BJT numbers, PTS numbers in parentheses, stanza-part references like '(2e-f, 3a-b)') are removed from the text. A paragraph holding two numbered stanzas is split into two blocks. The recitation-portion line, the closing prose line and the end line are ^a-1 onward, aligned with the root's. Walters' notes are footnotes [^fN] with his numbers. Merges and overlaps (English ^1-k → Pāli): ^1-4 → ^1-4 + ^1-5 (VRI repeats the verse with Mahākassapa added); ^1-7, ^1-8, ^1-9 → ^1-8–^1-11 (Walters' two six-line stanzas; breaks fall mid-verse); joint stanzas ^1-57 → ^1-59 + ^1-60 (56-57), ^1-122 → ^1-125 + ^1-126 (122-123), ^1-155 → ^1-159 + ^1-160 (156-157), ^1-177 → ^1-182 + ^1-183 (179-180). Walters' note 1, on the poem's title, is left out (notes on headings are not supported)."
+source_description: "Jonathan S. Walters' English translation, Legends of the Buddhist Saints: Apadānapāli (Whitman College, 2018), poem 17, from http://www.apadanatranslation.org/text/chapter-4/poem-017/ (downloaded 2026-11-12; raw copy 0-INBOX/temp/apadana/walters-poem-017.html), released under CC BY-NC-SA 4.0. The same translation is printed in A Little Lumbini Reader (Dominic Chua, 2023), received from a Buddha's Words recitation day. Walters follows the Sri Lankan Buddha Jayanti edition; the root linked here is VRI's Chaṭṭha Saṅgāyana text, so stanzas are aligned by meaning (match list: 0-INBOX/temp/apadana/match-list.md). Layout: one block per stanza with its lines; block IDs ^1-k number Walters' stanzas in order; his verse numbers (bracketed BJT numbers, PTS numbers in parentheses, stanza-part references like '(2e-f, 3a-b)') are removed from the text. A paragraph holding two numbered stanzas is split into two blocks. The recitation-portion line, the closing prose line and the end line are ^a-1 onward, aligned with the root's. Walters' notes are footnotes [^fN] with his numbers. Merges and overlaps (English ^1-k → Pāli): ^1-4 → ^1-4 + ^1-5 (VRI repeats the verse with Mahākassapa added); ^1-7, ^1-8, ^1-9 → ^1-8–^1-11 (Walters' two six-line stanzas; breaks fall mid-verse); joint stanzas ^1-57 → ^1-59 + ^1-60 (56-57), ^1-122 → ^1-125 + ^1-126 (122-123), ^1-155 → ^1-159 + ^1-160 (156-157), ^1-177 → ^1-182 + ^1-183 (179-180). Walters' note 1 is on the poem's title in his edition; since notes on headings are not supported, its marker is placed at the start of the first stanza (^1-1)."
 source: "http://www.apadanatranslation.org/text/chapter-4/poem-017/"
 license: "cc-by-nc-sa"
 translator: "Jonathan S. Walters"
@@ -26,7 +26,7 @@ toc_id: v9YUoRtmF40dSsjGkqOgz
 
 ![[1-SOURCES/Text/Mahāpajāpatigotamītherīapadānaṃ.md#^1-1]]
 
-One day the [Great] Lamp of the World,
+[^f1]One day the [Great] Lamp of the World,
 the Caravan Leader for men,
 dwelt in the Mahāvana Hall,
 among Vesali’s gabled roofs. ^1-1
@@ -1365,6 +1365,8 @@ Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses. ^a-2
 ![[1-SOURCES/Text/Mahāpajāpatigotamītherīapadānaṃ.md#^a-3]]
 
 The legend of Mahāpajāpatīgotamī Therī is finished. ^a-3
+
+[^f1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. puñcchi ammā), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
 
 [^f2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (ramme) can modify either “city” (pure) or “nuns’ refuge” (bhikkhunupassaye), and the texts disagree on “built” (kate), which is the BJTS reading. PTS reads setapure (“white city”), which I followed in my previously-published translation of this apadāna. There is great disagreement in the manuscripts about this term: PTS offers petapūre (“filled with hungry ghosts” ?) and gate (“[to which she had] gone”); BJTS alt. has yeva (“indeed”).
 
