@@ -14,6 +14,9 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
+text_id: eu2fjW5DcqdcQiXpPlusm
+edition_id: 5Gg76ELvoRWUXSedoeEzM
+toc_id: JaE7gwGDbhdYjltZICJER
 ---
 
 # Yasodharātherīapadānaṃ ^0

@@ -16,6 +16,10 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
+translation_of: eu2fjW5DcqdcQiXpPlusm
+text_id: BmkcYFah1QlBLQTXWyxh2
+edition_id: iqGpdg36VG15xdxdbtPwW
+toc_id: o0ygdw2WyYBYB9BB8xZ7e
 ---
 
 # The Legend of Yasodhara Theri ^0

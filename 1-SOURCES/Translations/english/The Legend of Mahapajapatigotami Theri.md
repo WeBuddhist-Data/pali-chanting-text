@@ -16,6 +16,10 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
+translation_of: mYjGACxVGdxBmiN9KoMKG
+text_id: 4PqPnobvhF4E0SttYT02O
+edition_id: 2aiR8YJomP1h4dsZAFdP4
+toc_id: v9YUoRtmF40dSsjGkqOgz
 ---
 
 # The Legend of Mahapajapatigotami Theri ^0

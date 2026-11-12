@@ -14,6 +14,9 @@ tag_ids: ["296WZOr8MXWteSqBBI7pl", "FZ5STsdU0eLvo7Nb2CpvH"]
 bdrc_work_id:
 status: "0-raw"
 edition_type: "critical"
+text_id: mYjGACxVGdxBmiN9KoMKG
+edition_id: ulhdA7e51c6FndGjKGqQ5
+toc_id: Ymclg0A1k32kVR6GpoeEr
 ---
 
 # Mahāpajāpatigotamītherīapadānaṃ ^0

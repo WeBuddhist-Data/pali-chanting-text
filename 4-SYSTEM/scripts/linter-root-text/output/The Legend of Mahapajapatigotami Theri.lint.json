@@ -1,12 +1,11 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Translations/english/The Legend of Mahapajapatigotami Theri.md",
-  "validated_at": "2026-11-12T04:53:42.279483+00:00",
+  "validated_at": "2026-11-12T04:57:20.170532+00:00",
   "notes": [
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
-    "translation_of: not set (optional)",
     "root_text: '1-SOURCES/Text/Mahāpajāpatigotamītherīapadānaṃ.md'",
     "source: source = 'http://www.apadanatranslation.org/text/chapter-4/poem-017/'",
     "durchens: 0 from 0 durchen definition(s); footnotes: 119 from 119 footnote definition(s), placed by position",
@@ -36,7 +35,7 @@
     ],
     "language": "en",
     "commentary_of": null,
-    "translation_of": null,
+    "translation_of": "mYjGACxVGdxBmiN9KoMKG",
     "category_id": "XfCwZpoJMtfO7s0laQkdK",
     "license": "cc-by-nc-sa",
     "contributions": null,
