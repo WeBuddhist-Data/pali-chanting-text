@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Translations/english/The Legend of Yasodhara Theri.md",
+  "validated_at": "2026-11-12T04:53:42.741859+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/Yasodharātherīapadānaṃ.md'",
+    "source: source = 'http://www.apadanatranslation.org/text/chapter-4/poem-028/'",
+    "durchens: 0 from 0 durchen definition(s); footnotes: 71 from 71 footnote definition(s), placed by position",
+    "toc: 1 headers found"
+  ],
+  "warnings": [
+    "translator 'Jonathan S. Walters': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The Legend of Yasodhara Theri"
+    },
+    "alt_titles": [
+      {
+        "en": "The Legend of Yasodharā Therī"
+      },
+      {
+        "en": "Yasodharā"
+      },
+      {
+        "en": "The Yaśodharā Apadāna"
+      }
+    ],
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "XfCwZpoJMtfO7s0laQkdK",
+    "license": "cc-by-nc-sa",
+    "contributions": null,
+    "tag_ids": [
+      "296WZOr8MXWteSqBBI7pl",
+      "FZ5STsdU0eLvo7Nb2CpvH"
+    ]
+  }
+}

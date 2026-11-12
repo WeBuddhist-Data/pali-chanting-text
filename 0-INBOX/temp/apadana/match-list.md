@@ -1,0 +1,298 @@
+# Apadāna alignment — match list for review
+
+English stanza (Walters, apadanatranslation.org) → Pāli verse(s) (VRI, s0510m2). Plain rows are 1:1 by meaning.
+
+## Mahāpajāpatī Gotamī (Walters poem 17; VRI 97–288)
+
+English stanzas 186, Pāli verses 192; Pāli verses with no English: none
+
+- E1 (1) “One day the [Great] Lamp of the World,” → P1 (VRI 97) “Ekadā lokapajjoto, vesāliyaṃ mahāvane;”
+- E2 (2) “The Victor’s mother’s sister then,” → P2 (VRI 98) “Tadā jinassa mātucchā, mahāgotami bhikkh”
+- E3 (–) “This reasoning occurred to her,” → P3 (VRI 99) “Bhikkhunīhi vimuttāhi, satehi saha pañca”
+- E4 (–) ““I will not be able to see” → P4 (VRI 100) “Buddhassa parinibbānaṃ, sāvakaggayugassa”, P5 (VRI 101) “Buddhassa parinibbānā, sāvakaggayugassa ” — **MERGE: VRI 5 repeats VRI 4 with Mahākassapa added; Walters has one stanza**
+- E5 (4) “Destroying life’s constituents” → P6 (VRI 102) “Paṭikaccāyusaṅkhāraṃ, osajjitvāna nibbut”
+- E6 (5) “[That] reasoning also occurred” → P7 (VRI 103) “Tathā pañcasatānampi, bhikkhunīnaṃ vitak”
+- E7 (6) “At that time there was an earthquake;” → P8 (VRI 104) “Bhūmicālo tadā āsi, nāditā devadundubhī;”, P9 (VRI 105) “Vilapantā sukaruṇaṃ, tatthassūni pavatta” — **BOUNDARY: 6-line stanza = P8 + first half of P9**
+- E8 (7) “[And then] all of those Buddhist nuns,” → P9 (VRI 105) “Vilapantā sukaruṇaṃ, tatthassūni pavatta”, P10 (VRI 106) “Nipacca sirasā pāde, idaṃ vacanamabravuṃ” — **BOUNDARY: second half of P9 + first half of P10**
+- E9 (8) ““Sister, gone off alone, there we” → P10 (VRI 106) “Nipacca sirasā pāde, idaṃ vacanamabravuṃ”, P11 (VRI 107) “Sā calā calitā bhūmi, nāditā devadundubh” — **BOUNDARY: 6-line stanza = second half of P10 + P11**
+- E10 (9) “She then told everything [to them,]” → P12 (VRI 108) “Tadā avoca sā sabbaṃ, yathāparivitakkita”
+- E11 (10) ““If [it’s] desired by you, sister —” → P13 (VRI 109) “Yadi te rucitaṃ ayye, nibbānaṃ paramaṃ s”
+- E12 (11) “Along with [you] we have gone forth” → P14 (VRI 110) “Mayaṃ sahāva nikkhantā, gharāpi ca bhavā”
+- E13 (12) “She said, “what is there to be said” → P15 (VRI 111) “Nibbānāya vajantīnaṃ, kiṃ vakkhāmī’ti sā”
+- E14 (13) ““May the goddesses forgive me,” → P16 (VRI 112) “Upassaye yādhivatthā, devatā tā khamantu”
+- E15 (14) “I’ll go to unconditionedness,” → P17 (VRI 113) “Na jarā maccu vā yattha, appiyehi samāga”
+- E16 (15) “Hearing those words, not passionless,” → P18 (VRI 114) “Avītarāgā taṃ sutvā, vacanaṃ sugatorasā;”
+- E17 (16) “Without those women this Buddhist” → P19 (VRI 115) “Bhikkhunīnilayo suñño, bhūto tāhi vinā a”
+- E18 (17) “Gotamī goes to nirvana” → P20 (VRI 116) “Nibbānaṃ gotamī yāti, satehi saha pañcah”
+- E19 (18) “The faithful laywomen, having” → P21 (VRI 117) “Rathiyāya vajantiyo, disvā saddhā upāsik”
+- E20 (19) ““Great-fortuned one, be satisfied.” → P22 (VRI 118) “Pasīdassu mahābhoge, anāthāyo vihāya no;”
+- E21 (20) “In order to dispel their grief,” → P23 (VRI 119) “Tāsaṃ sokapahānatthaṃ, avoca madhuraṃ gi”
+- E22 (21) “I have understood suffering,” → P24 (VRI 120) “Pariññātaṃ mayā dukkhaṃ, dukkhahetu viva”
+- E23 (22) “The Teacher’s been worshipped by me,” → P25 (VRI 121) “Pariciṇṇo mayā satthā, kataṃ buddhassa s”
+- E24 (23) “The reason for which I went forth” → P26 (VRI 122) “Yassatthāya pabbajitā, agārasmānagāriyaṃ”
+- E25 (24) “While Buddha and his great Teaching” → P27 (VRI 123) “Buddho tassa ca saddhammo, anūno yāva ti”
+- E26 (25) “Koṇḍañña, Ānanda, Nanda,” → P28 (VRI 124) “Koṇḍaññānandanandādī, tiṭṭhanti rāhulo j”
+- E27 (26) “The Famed One in Okkāka’s clan” → P29 (VRI 125) “Okkākavaṃsassa yaso, ussito māramaddano;”
+- E28 (27) “My wish [I’ve had] for very long” → P30 (VRI 126) “Cirappabhuti yaṃ mayhaṃ, patthitaṃ ajja ”
+- E29 (28) “If [you feel] compassion for me,” → P31 (VRI 127) “Sace mayi dayā atthi, yadi catthi kataññ”
+- E30 (29) “Beseeched by me, the Sambuddha” → P32 (VRI 128) “Thīnaṃ adāsi pabbajjaṃ, sambuddho yācito”
+- E31 (30) “Having thus advised [those women,]” → P33 (VRI 129) “Tā evamanusāsitvā, bhikkhunīhi purakkhat”
+- E32 (31) ““Well-Gone-One, I am your mother,” → P34 (VRI 130) “Ahaṃ sugata te mātā, tvañca vīra pitā ma”
+- E33 (32) “Your body, made of flesh and bones,” → P35 (VRI 131) “Saṃvaddhitoyaṃ sugata, rūpakāyo mayā tav”
+- E34 (33) “I suckled you with mother’s milk” → P36 (VRI 132) “Muhuttaṃ taṇhāsamaṇaṃ, khīraṃ tvaṃ pāyit”
+- E35 (34) “Great Sage, you owe no debt to me” → P37 (VRI 133) “Bandhanārakkhane mayhaṃ, aṇaṇo tvaṃ mahā”
+- E36 (35) “Mothers of kings, like Mandhātā,” → P38 (VRI 134) “Mandhātādinarindānaṃ, yā mātā sā bhavaṇṇ”
+- E37 (36) “Women can easily obtain” → P39 (VRI 135) “Rañño mātā mahesīti, sulabhaṃ nāmamitthi”
+- E38 (37) “O Hero, I’ve obtained that name!” → P40 (VRI 136) “Tañca laddhaṃ mahāvīra, paṇidhānaṃ mamaṃ”
+- E39 (38) “Having abandoned this body,” → P41 (VRI 137) “Parinibbātumicchāmi, vihāyemaṃ kaḷevaraṃ”
+- E40 (39) “Stretch forth your feet, like lilies soft,” → P42 (VRI 138) “Cakkaṅkusadhajākiṇṇe, pāde kamalakomale;”
+- E41 (40) “Show [me your] physical body;” → P43 (VRI 139) “Suvaṇṇarāsisaṅkāsaṃ, sarīraṃ kuru pākaṭa”
+- E42 (41) “Marked with the thirty-two great marks,” → P44 (VRI 140) “Dvattiṃsalakkhaṇūpetaṃ, suppabhālaṅkataṃ”
+- E43 (42) “Then she laid [her] head down upon” → P45 (VRI 141) “Phullāravindasaṃkāse, taruṇādiccasappabh”
+- E44 (43) ““I’m bowing to the Sun for Men,” → P46 (VRI 142) “Paṇamāmi narādicca, ādiccakulaketukaṃ;”
+- E45 (44) “Chief of the World, it is believed” → P47 (VRI 143) “Itthiyo nāma lokagga, sabbadosākarā matā”
+- E46 (45) “I begged [you,] over and again,” → P48 (VRI 144) “Itthikānañca pabbajjaṃ, haṃ taṃ yāciṃ pu”
+- E47 (46) “O Hero, with your permission,” → P49 (VRI 145) “Mayā bhikkhuniyo vīra, tavānuññāya sāsit”
+- E48 (47) ““What’s not forgiven to forgive” → P50 (VRI 146) “Akkhante nāma khantabbaṃ, kiṃ bhave guṇa”
+- E49 (48) “Those who are desiring escape from the world” → P51 (VRI 147) “Suddhe anūne mama bhikkhusaṅghe, lokā it”
+- E50 (49) “Like the stars and the moon around Mount Meru” → P52 (VRI 148) “Tadetarā bhikkhuniyo jinaggaṃ, tārāva ca”
+- E51 (50) ““Formerly [my] eyes and ears weren’t satisfie” → P53 (VRI 149) “Na tittipubbaṃ tava dassanena, cakkhuṃ n”
+- E52 (51) “When you roar forth amidst the crowd,” → P54 (VRI 150) “Nadato parisāyaṃ te, vāditabbapahārino;”
+- E53 (52) “Battle-Ender, fortunate too,” → P55 (VRI 151) “Dīghaṅgulī tambanakhe, subhe āyatapaṇhik”
+- E54 (53) “Fortunate too, O Best of Men,” → P56 (VRI 152) “Madhurāni pahaṭṭhāni, dosagghāni hitāni ”
+- E55 (54) “Fortunate am I, Great Hero,” → P57 (VRI 153) “Dhaññāhaṃ te mahāvīra, pādapūjanatapparā”
+- E56 (55) “Then the pious one explained [her” → P58 (VRI 154) “Tato sā anusāvetvā, bhikkhusaṅghampi sub”
+- E57 (56-57) ““I am weary of [my] body,” → P59 (VRI 155) “Āsīvisālayasame, rogāvāse kaḷevare;”, P60 (VRI 156) “Nānākalimalākiṇṇe, parāyatte nirīhake;” — **MERGE: Walters' joint stanza (56-57)**
+- E58 (58) “Nanda and lucky Rāhula,” → P61 (VRI 157) “Nando rāhulabhaddo ca, vītasokā nirāsavā”
+- E59 (59) ““Woe on greed for conditioned things:” → P62 (VRI 158) “Dhiratthu saṅkhataṃ lolaṃ, asāraṃ kadalū”
+- E60 (60) “In flux are all conditioned things,” → P63 (VRI 159) “Yattha nāma jinassāyaṃ, mātucchā buddhap”
+- E61 (61) “Ānanda was then [still] training,” → P64 (VRI 160) “Ānando ca tadā sekho, sokaṭṭo jinavaccha”
+- E62 (62) ““Gotamī is going, smiling;” → P65 (VRI 161) “Hā santiṃ gotamī yāti, nūna buddhopi nib”
+- E63 (63) “Gotamī said to Ānanda” → P66 (VRI 162) “Evaṃ vilāpamānaṃ taṃ, ānandaṃ āha gotamī”
+- E64 (64) “[and so] you really should not mourn,” → P67 (VRI 163) “Na yuttaṃ socituṃ putta, hāsakāle upaṭṭh”
+- E65 (65) “Being requested by you, dear,” → P68 (VRI 164) “Tayā tāta samajjhiṭṭho, pabbajjaṃ anujān”
+- E66 (66) “That state unseen by the ancients,” → P69 (VRI 165) “Yaṃ na diṭṭhaṃ purāṇehi, titthikācariyeh”
+- E67 (67) “[So take] your final look [at me,]” → P70 (VRI 166) “Buddhasāsanapāleta, pacchimaṃ dassanaṃ t”
+- E68 (68) “Once when he was preaching Dhamma,” → P71 (VRI 167) “Kadāci dhammaṃ desento, khipī lokagganāy”
+- E69 (69) ““Live for a long time, Great Hero!” → P72 (VRI 168) “Ciraṃ jīva mahāvīra, kappaṃ tiṭṭha mahām”
+- E70 (70) “The Buddha then said this to me” → P73 (VRI 169) “Taṃ tathāvādiniṃ buddho, mamaṃ so etadab”
+- E71 (71) ““How then, O One with Omniscience,” → P74 (VRI 170) “Kathaṃ carahi sabbaññū, vanditabbā tathā”
+- E72 (72) ““See [my] followers, united,” → P75 (VRI 171) “Āraddhavīriye pahitatte, niccaṃ daḷhapar”
+- E73 (73) “Then, going [back] to the refuge,” → P76 (VRI 172) “Tato upassayaṃ gantvā, ekikāhaṃ vicintay”
+- E74 (74) “Well then, I’ll reach full nirvana;” → P77 (VRI 173) “Handāhaṃ parinibbissaṃ, mā vipattitamadd”
+- E75 (75) “announced to [the Buddha,] the Guide,” → P78 (VRI 174) “Parinibbānakālaṃ me, ārocesiṃ vināyakaṃ;”
+- E76 (76) “My defilements are [now] burnt up;” → P79 (VRI 175) “Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsa”
+- E77 (77) “Being in Best Buddha’s presence” → P80 (VRI 176) “Svāgataṃ vata me āsi…pe… kataṃ buddhassa”
+- E78 (78) “The four analytical modes,” → P81 (VRI 177) “Paṭisambhidā catasso…pe… kataṃ buddhassa”
+- E79 (79) ““There are fools who doubt that women” → P82 (VRI 178) “Thīnaṃ dhammābhisamaye, ye bālā vimatiṃ ”
+- E80 (80) “Then bowing to the Sambuddha,” → P83 (VRI 179) “Tadā nipacca sambuddhaṃ, uppatitvāna amb”
+- E81 (81) “Being alone, [then] she was cloned;” → P84 (VRI 180) “Ekikā bahudhā āsi, bahukā cetikā tathā;”
+- E82 (82) “She traveled unattached to earth;” → P85 (VRI 181) “Asajjamānā agamā, bhūmiyampi nimujjatha;”
+- E83 (83) “Cross-legged, she flew like a bird,” → P86 (VRI 182) “Sakuṇīva tathākāse, pallaṅkena kamī tadā”
+- E84 (84) “Taking Mount Meru as handle,” → P87 (VRI 183) “Sineruṃ daṇḍaṃ katvāna, chattaṃ katvā ma”
+- E85 (85) “And like the time when six suns rose,” → P88 (VRI 184) “Chassūrodayakāleva, lokañcākāsi dhūmikaṃ”
+- E86 (86) “She took mounts Meru, Mandāra,” → P89 (VRI 185) “Mucalindaṃ mahāselaṃ, merumūlanadantare;”
+- E87 (87) “She concealed with [her] fingertip” → P90 (VRI 186) “Aṅgulaggena chādesi, bhākaraṃ sanisākara”
+- E88 (88) “In a single hand she held the” → P91 (VRI 187) “Catusāgaratoyāni, dhārayī ekapāṇinā;”
+- E89 (89) “She made appear up in the sky” → P92 (VRI 188) “Cakkavattiṃ saparisaṃ, māpayī sā nabhatt”
+- E90 (90) “Being alone, she conjured up” → P93 (VRI 189) “Ekikā abhinimmitvā, appameyyaṃ bhikkhunī”
+- E91 (91) ““Your mother’s sister, Great Hero,” → P94 (VRI 190) “Mātucchā te mahāvīra, tava sāsanakārikā;”
+- E92 (92) “Having shown varied miracles,” → P95 (VRI 191) “Dassetvā vividhā iddhī, orohitvā nabhatt”
+- E93 (93) ““O Great Sage, I’m an [old woman,]” → P96 (VRI 192) “Sā vīsavassasatikā, jātiyāhaṃ mahāmune;”
+- E94 (94) “Astonished, all the multitudes,” → P97 (VRI 193) “Tadātivimhitā sabbā, parisā sā katañjalī”
+- E95 (95) “The Victor, Padumuttara,” → P98 (VRI 194) “Padumuttaro nāma jino, sabbadhammesu cak”
+- E96 (96) “I was born in Haṃsavatī,” → P99 (VRI 195) “Tadāhaṃ haṃsavatiyaṃ, jātāmaccakule ahuṃ”
+- E97 (97) “Once, when tagging on with father —” → P100 (VRI 196) “Kadāci pitunā saddhiṃ, dāsigaṇapurakkhat”
+- E98 (98) “The Victor, like autumnal son,” → P101 (VRI 197) “Vāsavaṃ viya vassantaṃ, dhammameghaṃ anā”
+- E99 (99) “Seeing [him], being pleased at heart,” → P102 (VRI 198) “Disvā cittaṃ pasādetvā, sutvā cassa subh”
+- E100 (100) “Hearing [this,] for an entire day,” → P103 (VRI 199) “Sutvā datvā mahādānaṃ, sattāhaṃ tassa tā”
+- E101 (101) “Having fallen down at [his] feet,” → P104 (VRI 200) “Nipacca pādamūlamhi, taṃ ṭhānamabhipatth”
+- E102 (102) ““This one who for a week has fed” → P105 (VRI 201) “Yā sasaṅghaṃ abhojesi, sattāhaṃ lokanāya”
+- E103 (103) “In one hundred thousand aeons,” → P106 (VRI 202) “Satasahassito kappe, okkākakulasambhavo;”
+- E104 (104) “Worthy heir to that one’s Dhamma,” → P107 (VRI 203) “Tassa dhammesu dāyādā, orasā dhammanimmi”
+- E105 (105) “She will be his mother’s sister,” → P108 (VRI 204) “Tassa buddhassa mātucchā, jīvitāpādikā a”
+- E106 (106) “Hearing that I was overjoyed,” → P109 (VRI 205) “Taṃ sutvāna pamoditvā, yāvajīvaṃ tadā ji”
+- E107 (107) “born among the Tāvatiṃsa” → P110 (VRI 206) “Tāvatiṃsesu devesu, sabbakāmasamiddhisu;”
+- E108 (108) “through shapes [and] sounds [and] fragrances,” → P111 (VRI 207) “Rūpasaddehi gandhehi, rasehi phusanehi c”
+- E109 (109) “[and] likewise through supreme power” → P112 (VRI 208) “Tathevādhipateyyena, adhigayha virocahaṃ”
+- E110 (110) “Transmigrating in the cycle,” → P113 (VRI 209) “Saṃsāre saṃsarantīhaṃ, kammavāyusameritā”
+- E111 (111) “Every day there were five hundred” → P114 (VRI 210) “Pañcadāsasatānūnā, nivasanti tahiṃ tadā;”
+- E112 (112) “Five hundred self-become [Buddhas]” → P115 (VRI 211) “Sayambhuno pañcasatā, gāmaṃ piṇḍāya pāvi”
+- E113 (113) “All of us having formed a guild,” → P116 (VRI 212) “Pūgā hutvāva sabbāyo, catumāse upaṭṭhahu”
+- E114 (114) “Fallen from there with our husbands,” → P117 (VRI 213) “Tato cutā sabbāpi tā, tāvatiṃsagatā maya”
+- E115 (115) “my father, Añjana Śākya,” → P118 (VRI 214) “Pitā añjanasakko me, mātā mama sulakkhaṇ”
+- E116 (116) “The other women born Śākyan” → P119 (VRI 215) “Sesā sakyakule jātā, sakyānaṃ gharamāgam”
+- E117 (117) “After having gone forth, my son” → P120 (VRI 216) “Mama puttobhinikkhamma, buddho āsi vināy”
+- E118 (118) “Along with the Śākyan heroes,” → P121 (VRI 217) “Sākiyānīhi dhīrāhi, saha santisukhaṃ phu”
+- E119 (119) “Makers of merit together,” → P122 (VRI 218) “Sahapuññassa kattāro, mahāsamayakārakā;”
+- E120 (120) “The rest of the Buddhist nuns [there]” → P123 (VRI 219) “Tadetarā bhikkhuniyo, āruhiṃsu nabhattal”
+- E121 (121) “They displayed [their] diverse powers” → P124 (VRI 220) “Iddhī anekā dassesuṃ, piḷandhavikatiṃ ya”
+- E122 (122-123) “After displaying miracles,” → P125 (VRI 221) “Dassetvā pāṭihīrāni, vicittāni bahūni ca”, P126 (VRI 222) “Orohitvāna gaganā, vanditvā isisattamaṃ;” — **MERGE: joint stanza (122-123)**
+- E123 (124) ““Hey, Hero, it was Gotamī” → P127 (VRI 223) “Ahonukampikā amhaṃ, sabbāsaṃ cira gotamī”
+- E124 (125) “Our defilements are [now] burnt up;” → P128 (VRI 224) “Kilesā jhāpitā amhaṃ, bhavā sabbe samūha”
+- E125 (126) “Being in Best Buddha’s presence” → P129 (VRI 225) “Svāgataṃ vata no āsi, buddhaseṭṭhassa sa”
+- E126 (127) “The four analytical modes,” → P130 (VRI 226) “Paṭisambhidā catasso, vimokkhāpi ca aṭṭh”
+- E127 (128) “We are masters of miracles,” → P131 (VRI 227) “Iddhīsu ca vasī homa, dibbāya sotadhātuy”
+- E128 (129) “We know [all of] our former lives;” → P132 (VRI 228) “Pubbenivāsaṃ jānāma, dibbacakkhu visodhi”
+- E129 (130) “It was in your presence, Great Sage,” → P133 (VRI 229) “Atthe dhamme ca nerutte, paṭibhāne ca vi”
+- E130 (131) “Leader, you’re surrounded by us,” → P134 (VRI 230) “Asmābhi pariciṇṇosi, mettacittāhi nāyaka”
+- E131 (132) “The Victor said, “What [can] I say” → P135 (VRI 231) “Nibbāyissāma iccevaṃ, kiṃ vakkhāmi vadan”
+- E132 (133) “At that time [all] those Buddhist nuns,” → P136 (VRI 232) “Gotamīādikā tāyo, tadā bhikkhuniyo jinaṃ”
+- E133 (134) “The World’s Chief Leader, the Wise One,” → P137 (VRI 233) “Mahatā janakāyena, saha lokagganāyako;”
+- E134 (135) “Then Gotamī fell [to the ground]” → P138 (VRI 234) “Tadā nipati pādesu, gotamī lokabandhuno;”
+- E135 (136) ““This [will be] my final vision” → P139 (VRI 235) “Idaṃ pacchimakaṃ mayhaṃ, lokanāthassa da”
+- E136 (137) “No more homage to your soft feet;” → P140 (VRI 236) “Na ca me vandanaṃ vīra, tava pāde sukoma”
+- E137 (138) “What’s your physical form [or] face,” → P141 (VRI 237) “Rūpena kiṃ tavānena, diṭṭhe dhamme yathā”
+- E138 (139) “She, having gone along with them” → P142 (VRI 238) “Sā saha tāhi gantvāna, bhikkhunupassayaṃ”
+- E139 (140) “At that time the laywomen there,” → P143 (VRI 239) “Tadā upāsikā tattha, buddhasāsanavacchal”
+- E140 (141) “pounding on [their] chests with [their] fists” → P144 (VRI 240) “Karehi uraṃ pahantā, chinnamūlā yathā la”
+- E141 (142) ““Refuge-Bestower, Lord, do not” → P145 (VRI 241) “Mā no saraṇade nāthe, vihāya gami nibbut”
+- E142 (143) “One laywoman, faithful and wise,” → P146 (VRI 242) “Yā padhānatamā tāsaṃ, saddhā paññā upāsi”
+- E143 (144) ““Enough with [this] depression, child,” → P147 (VRI 243) “Alaṃ puttā visādena, mārapāsānuvattinā;”
+- E144 (145) “Then having sent them [all] away,” → P148 (VRI 244) “Tato sā tā visajjitvā, paṭhamaṃ jhānamut”
+- E145 (146) “In order, moving [higher still:]” → P149 (VRI 245) “Ākāsāyatanañceva, viññāṇāyatanaṃ tathā;”
+- E146 (147) “In reverse order, Gotamī” → P150 (VRI 246) “Paṭilomena jhānāni, samāpajjittha gotamī”
+- E147 (148) “Rising up, she reached nirvana,” → P151 (VRI 247) “Tato vuṭṭhāya nibbāyi, dīpaccīva nirāsav”
+- E148 (149) “The thunder was rumbling loudly;” → P152 (VRI 248) “Panāditā dundubhiyo, parideviṃsu devatā;”
+- E149 (150) “Even regal Mount Meru shook,” → P153 (VRI 249) “Kampito merurājāpi, raṅgamajjhe yathā na”
+- E150 (151) “The gods, snake-gods and titans too,” → P154 (VRI 250) “Devā nāgāsurā brahmā, saṃviggāhiṃsu taṅk”
+- E151 (152) “The [other nuns] surrounding her,” → P155 (VRI 251) “Yā ce maṃ parivāriṃsu, satthu sāsanakāri”
+- E152 (153) ““Alas! Attachments end up cut!” → P156 (VRI 252) “Hā yogā vippayogantā, hāniccaṃ sabbasaṅk”
+- E153 (154) “Then Brahmā and the deities” → P157 (VRI 253) “Tato devā ca brahmā ca, lokadhammānuvatt”
+- E154 (155) “Then the Teacher told Ānanda,” → P158 (VRI 254) “Tadā āmantayī satthā, ānandaṃ sutasāgara”
+- E155 (156-157) “Then Ānanda, who’d lost his joy,” → P159 (VRI 255) “Tadānando nirānando, assunā puṇṇalocano;”, P160 (VRI 256) “Pubbadakkhiṇapacchāsu, uttarāya ca santi” — **MERGE: joint stanza (156-157)**
+- E156 (158) “This Gotamī, who carefully” → P161 (VRI 257) “Yā vaḍḍhayi payattena, sarīraṃ pacchimaṃ”
+- E157 (159) “She’s gone home, leaving behind [her]” → P162 (VRI 258) “Buddhamātāti paññattiṃ, ṭhapayitvā gatās”
+- E158 (160) “Each with faith in the Well-Gone-One,” → P163 (VRI 259) “Yassatthi sugate saddhā, yo ca piyo mahā”
+- E159 (161) “Hearing that, the monks came with speed,” → P164 (VRI 260) “Sudūraṭṭhāpi taṃ sutvā, sīghamāgacchu bh”
+- E160 (162) “[Folks there] raised a funeral bier” → P165 (VRI 261) “Kūṭāgāravare ramme, sabbasoṇṇamaye subhe”
+- E161 (163) “The four [gods called] “World-Protectors”” → P166 (VRI 262) “Cattāro lokapālā te, aṃsehi samadhārayuṃ”
+- E162 (164) “There were five hundred gabled huts,” → P167 (VRI 263) “Kūṭāgārāni sabbāni, āsuṃ pañcasatānipi;”
+- E163 (165) “All those [five hundred] Buddhist nuns” → P168 (VRI 264) “Sabbā tāpi bhikkhuniyo, āsuṃ mañcesu sāy”
+- E164 (166) “A canopy up in the sky” → P169 (VRI 265) “Sabbaso chāditaṃ āsi, vitānena nabhattal”
+- E165 (167) “Flags of various types were raised,” → P170 (VRI 266) “Paṭākā ussitānekā, vitatā pupphakañcukā;”
+- E166 (168) “[Both] the sun and the moon were seen,” → P171 (VRI 267) “Dassanti candasūriyā, pajjalanti ca tāra”
+- E167 (169) “Gods made offerings of garlands,” → P172 (VRI 268) “Devā dibbehi gandhehi, mālehi surabhīhi ”
+- E168 (170) “The snake-gods, titans and Brahmās” → P173 (VRI 269) “Nāgāsurā ca brahmāno, yathāsatti yathāba”
+- E169 (171) “In front were led off all of the” → P174 (VRI 270) “Sabbāyo purato nītā, nibbutā sugatorasā;”
+- E170 (172) “With the gods [and] people out front,” → P175 (VRI 271) “Purato devamanujā, sanāgāsurabrahmakā;”
+- E171 (173) “The Buddha’s final nirvana” → P176 (VRI 272) “Buddhassa parinibbānaṃ, nedisaṃ āsi yādi”
+- E172 (174) “The Buddha [and] monks won’t be seen” → P177 (VRI 273) “Buddho buddhassa nibbāne, nopaṭiyādi bhi”
+- E173 (175) “[Then] they built the funeral pyres,” → P178 (VRI 274) “Citakāni karitvāna, sabbagandhamayāni te”
+- E174 (176) “The remaining portions [and] bones” → P179 (VRI 275) “Sesabhāgāni ḍayhiṃsu, aṭṭhī sesāni sabba”
+- E175 (177) ““Gotamī’s gone without a trace” → P180 (VRI 276) “Gotamī nidhanaṃ yātā, ḍayhañcassā sarīra”
+- E176 (178) “Ānanda, urged by the Buddha,” → P181 (VRI 277) “Tato gotamidhātūni, tassā pattagatāni so”
+- E177 (179-180) “Taking them up with [both his] hands,” → P182 (VRI 278) “Pāṇinā tāni paggayha, avoca isisattamo;”, P183 (VRI 279) “Yo so mahattaro khandho, palujjeyya anic” — **MERGE: joint stanza (179-180)**
+- E178 (181) “O! it is a marvelous thing!” → P184 (VRI 280) “Aho acchariyaṃ mayhaṃ, nibbutāyapi mātuy”
+- E179 (182) “Grieving not for others [left,]” → P185 (VRI 281) “Na sociyā paresaṃ sā, tiṇṇasaṃsārasāgarā”
+- E180 (183) “Know this about her, O [you] monks,” → P186 (VRI 282) “Paṇḍitāsi mahāpaññā, puthupaññā tatheva ”
+- E181 (184) “She’d mastered the superpower” → P187 (VRI 283) “Iddhīsu ca vasī āsi, dibbāya sotadhātuyā”
+- E182 (185) “She remembered [her] former lives;” → P188 (VRI 284) “Pubbenivāsamaññāsi, dibbacakkhu visodhit”
+- E183 (186) “She had purified [her] knowledge” → P189 (VRI 285) “Atthadhammaniruttīsu, paṭibhāne tatheva ”
+- E184 (187) “A rod of iron that’s beaten” → P190 (VRI 286) “Ayoghanahatasseva, jalato jātavedassa;”
+- E185 (188) “No rebirth place can be discerned” → P191 (VRI 287) “Evaṃ sammā vimuttānaṃ, kāmabandhoghatāri”
+- E186 (189) “Therefore be lamps unto yourselves;” → P192 (VRI 288) “Attadīpā tato hotha, satipaṭṭhānagocarā;”
+
+## Yasodharā (Walters poem 28; VRI 314–410)
+
+English stanzas 99, Pāli verses 97; Pāli verses with no English: none
+
+- E1 (–) “At one time the Leader of Men” → P1 (VRI 314) “Ekasmiṃ samaye ramme, iddhe rājagahe pur”
+- E2 (–) “This is what was reasoned out [then]” → P2 (VRI 315) “Vasantiyā tamhi nagare, ramme bhikkhunup”
+- E3 (–) “"Nanda, Rahula and Bhadda;” → P3 (VRI 316) “Suddhodano mahārājā, gotamī ca pajāpatī;” — **BOUNDARY: first half of P3 (Walters' line naming Nanda, Rāhula, Bhadda is not in VRI)**
+- E4 (–) “the great theras of great renown;” → P3 (VRI 316) “Suddhodano mahārājā, gotamī ca pajāpatī;”, P4 (VRI 317) “Santiṃ gatāva āsuṃ te, dīpaccīva nirāsav” — **BOUNDARY: second half of P3 + first half of P4**
+- E5 (–) “While the World’s Lord still is living,” → P4 (VRI 317) “Santiṃ gatāva āsuṃ te, dīpaccīva nirāsav”, P5 (VRI 318) “Gamissāmīti cintetvā, passantī āyumattan” — **BOUNDARY: second half of P4 + first half of P5**
+- E6 (–) “Foreseeing that life’s aggregates” → P5 (VRI 318) “Gamissāmīti cintetvā, passantī āyumattan”, P6 (VRI 319) “Pattacīvaramādāya, nikkhamitvā sakassamā” — **BOUNDARY: second half of P5 + first half of P6**
+- E7 (1) “Honored by one hundred thousand” → P6 (VRI 319) “Pattacīvaramādāya, nikkhamitvā sakassamā”, P7 (VRI 320) “Mahiddhikā mahāpaññā, sambuddhaṃ upasaṅk” — **BOUNDARY: second half of P6 + first line of P7 (P7 is a 6-pāda verse)**
+- E8 (2) “Having worshipped the Sambuddha,” → P7 (VRI 320) “Mahiddhikā mahāpaññā, sambuddhaṃ upasaṅk” — **SPLIT: lines 2-3 of P7**
+- E9 (3) ““I’m seventy-eight years old now,” → P8 (VRI 321) “Aṭṭhasattativassāhaṃ, pacchimo vattate v”
+- E10 (4) “Old age has ripened for me [now];” → P9 (VRI 322) “Paripakko vayo mayhaṃ, parittaṃ mama jīv”
+- E11 (5) “In the final days of old age,” → P10 (VRI 323) “Vayamhi pacchime kāle, maraṇaṃ uparuddha”
+- E12 (6) “Where there’s no birth, no growing old,” → P11 (VRI 324) “Natthi jāti jarā byādhi, maraṇañca mahām”
+- E13 (7) “Throughout [this vast] multitude here,” → P12 (VRI 325) “Yāvatā parisā nāma, samupāsanti satthuno”
+- E14 (8) “Transmigrating in existence,” → P13 (VRI 326) “Saṃsaritvā ca saṃsāre, khalitañce mamaṃ ”
+- E15 (–) “After hearing [that] speech of hers,” → P14 (VRI 327) “Sutvāna vacanaṃ tassā, munindo idamabrav”
+- E16 (9) “Now display [your] superpowers,” → P15 (VRI 328) “Iddhiñcāpi nidassehi, mama sāsanakārike;”
+- E17 (–) “Having heard the words of the Sage,” → P16 (VRI 329) “Sutvā taṃ munino vācaṃ, bhikkhunī sā yas”
+- E18 (10) “"I am Yasodharā, Hero;” → P17 (VRI 330) “Yasodharā ahaṃ vīra, agāre te pajāpati;”
+- E19 (11) “In your household, O Hero, I” → P18 (VRI 331) “Thīnaṃ satasahassānaṃ, navutīnaṃ chadutt”
+- E20 (12) “All of those women, endowed with” → P19 (VRI 332) “Rūpācāraguṇūpetā, yobbanaṭṭhā piyaṃvadā;”
+- E21 (13) “Leader of a thousand maidens” → P20 (VRI 333) “Kaññāsatasahassapamukhā, sakyaputtanives”
+- E22 (14) “Beyond the essence of desire,” → P21 (VRI 334) “Kāmadhātumatikkamma, saṇṭhitā rūpadhātuy”
+- E23 (–) “Speaking [words] beginning with these,” → P22 (VRI 335) “Sambuddhaṃ abhivādetvā, iddhiṃ dassesi s” — **NOT IN VRI'S MAIN TEXT: this stanza is VRI's variant note (sī.) on P22 — linked to P22**
+- E24 (15) “Worshipping the Sambuddha, she” → P22 (VRI 335) “Sambuddhaṃ abhivādetvā, iddhiṃ dassesi s”
+- E25 (16) “Body big as the universe,” → P23 (VRI 336) “Cakkavāḷasamaṃ kāyaṃ, sīsaṃ uttarato kur”
+- E26 (17) “tail feathers: the southern ocean;” → P24 (VRI 337) “Dakkhiṇañca saraṃ piñchaṃ, nānāsākhā tu ”
+- E27 (18) “[In her] beak, mountain at world’s end,” → P25 (VRI 338) “Cakkavālagiriṃ tuṇḍaṃ, jamburukkhaṃ samū”
+- E28 (19) “She made herself an elephant,” → P26 (VRI 339) “Hatthivaṇṇaṃ tathevassaṃ, pabbataṃ jalad”
+- E29 (20) “She covered the thousand-fold world” → P27 (VRI 340) “Yasodharā ahaṃ vīra, pāde vandāmi cakkhu”
+- E30 (21) “And making Brahma’s form appear,” → P28 (VRI 341) “Brahmavaṇṇañca māpetvā, dhammaṃ desesi s”
+- E31 (22) “I’ve mastered the superpowers” → P29 (VRI 342) “Iddhīsu ca vasī homi, dibbāya sotadhātuy”
+- E32 (23) “I remember [my] former lives;” → P30 (VRI 343) “Pubbenivāsaṃ jānāmi, dibbacakkhu visodhi”
+- E33 (24) “In meaning and in the Teaching,” → P31 (VRI 344) “Atthadhammaniruttīsu, paṭibhāne tatheva ”
+- E34 (25) “[My] meeting with [all] the Buddhas,” → P32 (VRI 345) “Pubbānaṃ lokanāthānaṃ, saṅgamaṃ te nidas”
+- E35 (26) “O Sage, recall the good karma,” → P33 (VRI 346) “Yaṃ mayhaṃ pūritaṃ kammaṃ, kusalaṃ saras”
+- E36 (27) “I kept from misconduct, hindered” → P34 (VRI 347) “Abhabbaṭṭhāne vajjetvā, vārayitvā anācar”
+- E37 (28) “I gave myself to be a wife,” → P35 (VRI 348) “Nekakoṭisahassāni, bhariyatthāyadāsi maṃ”
+- E38 (29) “I gave myself to do service,” → P36 (VRI 349) “Nekakoṭisahassāni, upakārāyadāsi maṃ;”
+- E39 (30) “I gave myself to [provide] food,” → P37 (VRI 350) “Nekakoṭisahassāni, bhojanatthāyadāsi maṃ”
+- E40 (31) “I have given you [all my] lives,” → P38 (VRI 351) “Nekakoṭisahassāni, jīvitāni pariccajiṃ;”
+- E41 (32) “Great Sage, for your sake I do not” → P39 (VRI 352) “Aṅgagate alaṅkāre, vatthe nānāvidhe bahū”
+- E42 (33) “Wealth and grain have been given up,” → P40 (VRI 353) “Dhanadhaññapariccāgaṃ, gāmāni nigamāni c”
+- E43 (34) “Elephants, horses, also cows,” → P41 (VRI 354) “Hatthī assā gavā cāpi, dāsiyo paricārikā”
+- E44 (35) “Whatever I am told [to give]” → P42 (VRI 355) “Yaṃ mayhaṃ paṭimantesi, dānaṃ dassāmi yā”
+- E45 (36) “I have experienced dis-ease” → P43 (VRI 356) “Nānāvidhaṃ bahuṃ dukkhaṃ, saṃsāre ca bah”
+- E46 (37) “Attaining comfort[s,] I don’t thrill;” → P44 (VRI 357) “Sukhappattānumodāmi, na ca dukkhesu dumm”
+- E47 (38) “After experiencing [both]” → P45 (VRI 358) “Anumaggena sambuddho, yaṃ dhammaṃ abhinī”
+- E48 (39) “By you [and] by me there was much” → P46 (VRI 359) “Brahmadevañca sambuddhaṃ, gotamaṃ lokanā”
+- E49 (40) “I performed a lot of service,” → P47 (VRI 360) “Adhikāraṃ bahuṃ mayhaṃ, tuyhatthāya mahā”
+- E50 (41) “One hundred thousand aeons [and]” → P48 (VRI 361) “Kappe ca satasahasse, caturo ca asaṅkhiy”
+- E51 (42) “[Some]place in a nearby country,” → P49 (VRI 362) “Paccantadesavisaye, nimantetvā tathāgata”
+- E52 (43) “At that time there was a brahmin” → P50 (VRI 363) “Tena kālena so āsi, sumedho nāma brāhmaṇ”
+- E53 (44) “At that time I was a maiden,” → P51 (VRI 364) “Tena kālenahaṃ āsiṃ, kaññā brāhmaṇasambh”
+- E54 (45) “With eight handfuls of blue lotus” → P52 (VRI 365) “Aṭṭha uppalahatthāni, pūjanatthāya satth”
+- E55 (46) “Seeing [him,] seated atop bark,” → P53 (VRI 366) “Cirānugataṃ dayitaṃ, atikkantaṃ manohara”
+- E56 (47) “At that time I saw [that] sage’s” → P54 (VRI 367) “Parakkamaṃ taṃ saphalaṃ, addasaṃ isino t”
+- E57 (48) “Making [my] heart even more pleased,” → P55 (VRI 368) “Bhiyyo cittaṃ pasādesiṃ, ise uggatamānas”
+- E58 (49) “There are five handfuls for you, sage;” → P56 (VRI 369) “Pañcahatthā tava hontu, tayo hontu mamaṃ”
+- E59 (50) “[Then that] sage, taking the flowers,” → P57 (VRI 370) “Isi gahetvā pupphāni, āgacchantaṃ mahāya”
+- E60 (51) “The Great Sage [named] Dīpaṅkara,” → P58 (VRI 371) “Passitvā janasaṃmajjhe, dīpaṅkaro mahāmu”
+- E61 (52) “The Great Sage [named] Dīpāṅkara” → P59 (VRI 372) “Aparimeyye ito kappe, dīpaṅkaro mahāmuni”
+- E62 (53) ““She will be a like-minded [wife],” → P60 (VRI 373) “Samacittā samakammā, samakārī bhavissati”
+- E63 (54) “Nice looking and much beloved,” → P61 (VRI 374) “Sudassanā supiyā ca, manāpā piyavādinī;”
+- E64 (55) “Just as masters are protecting” → P62 (VRI 375) “Yathāpi bhaṇḍasāmuggaṃ, anurakkhati sāmi”
+- E65 (56) “Compassionate for [future] you,” → P63 (VRI 376) “Tassa te anukampantī, pūrayissati pāramī”
+- E66 (57) “Rejoicing about [Buddha’s] speech,” → P64 (VRI 377) “Aparimeyye ito kappe, yaṃ maṃ buddho viy”
+- E67 (58) “I brought pleasure to [my] mind when” → P65 (VRI 378) “Tassa kammassa sukatassa, tattha cittaṃ ”
+- E68 (59) “Undergoing pleasure [and] pain,” → P66 (VRI 379) “Sukhadukkhenubhotvāhaṃ, devesu mānusesu ”
+- E69 (60) “Beautiful and very wealthy,” → P67 (VRI 380) “Rūpavatī bhogavatī, yasasīlavatī tato;”
+- E70 (61) “Riches, fame, hospitality,” → P68 (VRI 381) “Lābhaṃ silokaṃ sakkāraṃ, lokadhammasamāg”
+- E71 (62) “I was appointed to attend” → P69 (VRI 382) “Vuttañhetaṃ bhagavatā, rañño antepure ta”
+- E72 (63) “[I’m] a woman who’s a servant,” → P70 (VRI 383) “Upakārā ca yā nārī, yā ca nārī sukhe duk”
+- E73 (64) “Buddhas [numbering] five billion,” → P71 (VRI 384) “Pañcakoṭisatā buddhā, navakoṭisatāni ca;”
+- E74 (65) “Listen to my [words,] O great king:” → P72 (VRI 385) “Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi”
+- E75 (66) “I provided vast alms to [them,]” → P73 (VRI 386) “Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ”
+- E76 (67) “Twenty billion [other] Buddhas” → P74 (VRI 387) “Vīsakoṭisatā buddhā, tiṃsakoṭisatāni ca;”
+- E77 (68) “Listen to my [words,] O great king:” → P75 (VRI 388) “Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi”
+- E78 (69) “I provided vast alms to [them,]” → P76 (VRI 389) “Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ”
+- E79 (70) “Sixty billion [other] Buddhas,” → P77 (VRI 390) “Saṭṭhikoṭisatā buddhā, sattatikoṭisatāni”
+- E80 (71) “Listen to my [words,] O great king:” → P78 (VRI 391) “Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi”
+- E81 (72) “I provided vast alms to [them,]” → P79 (VRI 392) “Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ”
+- E82 (73) “There have been a million million” → P80 (VRI 393) “Koṭisatasahassāni, honti lokagganāyakā;”
+- E83 (74) “Listen to my [words,] O great king:” → P81 (VRI 394) “Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi”
+- E84 (75) “I provided vast alms to [them,]” → P82 (VRI 395) “Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ”
+- E85 (76) “to Great Sages [whose number was]” → P83 (VRI 396) “Koṭisatasahassāni, pañcāsītimahesinaṃ;”
+- E86 (77) “I provided vast alms to [them,]” → P84 (VRI 397) “Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ”
+- E87 (78) “Lonely Buddhas, passion removed,” → P85 (VRI 398) “Paccekabuddhā vītarāgā, aṭṭhaṭṭhamakakoṭ”
+- E88 (79) “Countless followers of Buddhas,” → P86 (VRI 399) “Khīṇāsavā vītamalā, asaṅkhiyā buddhasāva”
+- E89 (80) “I always practice the Teaching” → P87 (VRI 400) “Evaṃ dhamme suciṇṇānaṃ, sadā dhammassa c”
+- E90 (81) “Well-practiced, the Teaching-practice;” → P88 (VRI 401) “Dhammaṃ care sucaritaṃ, na naṃ duccarita”
+- E91 (82) “Disgusted with transmigration,” → P89 (VRI 402) “Nibbinditvāna saṃsāre, pabbajiṃ anagāriy”
+- E92 (83) “After abandoning [my] home,” → P90 (VRI 403) “Agāraṃ vijahitvāna, pabbajiṃ anagāriyaṃ;”
+- E93 (84) “Like the waves upon the ocean,” → P91 (VRI 404) “Cīvaraṃ piṇḍapātañca, paccayaṃ sayanāsan”
+- E94 (85) “My defilements are [now] burnt up;” → P92 (VRI 405) “Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsa”
+- E95 (86) “Being in Best Buddha’s presence” → P93 (VRI 406) “Svāgataṃ vata me āsi…pe… kataṃ buddhassa”
+- E96 (87) “The four analytical modes,” → P94 (VRI 407) “Paṭisambhidā catasso…pe… kataṃ buddhassa”
+- E97 (–) “Thus many sorts of suffering” → P95 (VRI 408) “Evaṃ bahuvidhaṃ dukkhaṃ, sampattī ca bah”
+- E98 (–) “The woman who’s giving herself” → P96 (VRI 409) “Yā dadāti sakattānaṃ, puññatthāya mahesi”
+- E99 (–) “The past is thoroughly destroyed,” → P97 (VRI 410) “Parikkhīṇaṃ atītañca, paccuppannaṃ anāga”

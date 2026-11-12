@@ -1,0 +1,831 @@
+{
+ "title": "Yasodharātherīapadānaṃ",
+ "verses": [
+  {
+   "vri": 314,
+   "lines": [
+    "Ekasmiṃ samaye ramme, iddhe rājagahe pure;",
+    "Pabbhāramhi varekamhi, vasante naranāyake."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 315,
+   "lines": [
+    "Vasantiyā tamhi nagare, ramme bhikkhunupassaye;",
+    "Yasodharābhikkhuniyā, evaṃ āsi vitakkitaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 316,
+   "lines": [
+    "‘‘Suddhodano mahārājā, gotamī ca pajāpatī;",
+    "Abhiññātā mahātherā, theriyo ca mahiddhikā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 317,
+   "lines": [
+    "‘‘Santiṃ gatāva āsuṃ te, dīpaccīva nirāsavā;",
+    "Lokanāthe dharanteva, ahampi ca sivaṃ padaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 318,
+   "lines": [
+    "‘‘Gamissāmīti cintetvā, passantī āyumattano;",
+    "Passitvā āyusaṅkhāraṃ, tadaheva khayaṃ gataṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 319,
+   "lines": [
+    "‘‘Pattacīvaramādāya, nikkhamitvā sakassamā;",
+    "Purakkhatā bhikkhunībhi, satehi sahassehi sā[[NOTE0]]."
+   ],
+   "notes": [
+    "saha pañcahi (sī. pī.)"
+   ]
+  },
+  {
+   "vri": 320,
+   "lines": [
+    "‘‘Mahiddhikā mahāpaññā, sambuddhaṃ upasaṅkami;",
+    "Sambuddhaṃ abhivādetvā, satthuno cakkalakkhaṇe;",
+    "Nisinnā ekamantamhi, idaṃ vacanamabravi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 321,
+   "lines": [
+    "‘‘‘Aṭṭhasattativassāhaṃ, pacchimo vattate vayo[[NOTE0]];",
+    "Pabbhāramhi anuppattā, ārocemi mahāmuni."
+   ],
+   "notes": [
+    "pacchimā vattayi vayā (syā.)"
+   ]
+  },
+  {
+   "vri": 322,
+   "lines": [
+    "‘‘‘Paripakko vayo mayhaṃ, parittaṃ mama jīvitaṃ;",
+    "Pahāya vo gamissāmi, kataṃ me saraṇamattano."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 323,
+   "lines": [
+    "‘‘‘Vayamhi pacchime kāle, maraṇaṃ uparuddhati;",
+    "Ajjarattiṃ mahāvīra, pāpuṇissāmi nibbutiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 324,
+   "lines": [
+    "‘‘‘Natthi jāti jarā byādhi, maraṇañca mahāmune;",
+    "Ajarāmaraṇaṃ puraṃ, gamissāmi asaṅkhataṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 325,
+   "lines": [
+    "‘‘‘Yāvatā parisā nāma, samupāsanti satthuno;",
+    "Aparādhamajānantī[[NOTE0]], khamantaṃ sammukhā mune."
+   ],
+   "notes": [
+    "sace metthi (sī.), pajānantī (ka.)"
+   ]
+  },
+  {
+   "vri": 326,
+   "lines": [
+    "‘‘‘Saṃsaritvā ca saṃsāre, khalitañce mamaṃ tayi;",
+    "Ārocemi mahāvīra, aparādhaṃ khamassu me’."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 327,
+   "lines": [
+    "‘‘Sutvāna vacanaṃ tassā, munindo idamabravi;",
+    "‘Kimuttaraṃ te vakkhāmi, nibbānāya vajantiyā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 328,
+   "lines": [
+    "‘‘‘Iddhiñcāpi nidassehi, mama sāsanakārike;",
+    "Parisānañca sabbāsaṃ, kaṅkhaṃ chindassu yāvatā’."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 329,
+   "lines": [
+    "‘‘Sutvā taṃ munino vācaṃ, bhikkhunī sā yasodharā;",
+    "Vanditvā munirājaṃ taṃ, idaṃ vacanamabravi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 330,
+   "lines": [
+    "‘‘‘Yasodharā ahaṃ vīra, agāre te pajāpati;",
+    "Sākiyamhi kule jātā, itthiaṅge patiṭṭhitā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 331,
+   "lines": [
+    "‘‘‘Thīnaṃ satasahassānaṃ, navutīnaṃ chaduttari;",
+    "Agāre te ahaṃ vīra, pāmokkhā sabbā issarā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 332,
+   "lines": [
+    "‘‘‘Rūpācāraguṇūpetā, yobbanaṭṭhā piyaṃvadā;",
+    "Sabbā maṃ apacāyanti, devatā viya mānusā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 333,
+   "lines": [
+    "‘‘‘Kaññāsatasahassapamukhā, sakyaputtanivesane;",
+    "Samānasukhadukkhatā, devatā viya nandane."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 334,
+   "lines": [
+    "‘‘‘Kāmadhātumatikkamma[[NOTE0]], saṇṭhitā rūpadhātuyā;",
+    "Rūpena sadisā natthi, ṭhapetvā lokanāyakaṃ."
+   ],
+   "notes": [
+    "kāmadhātumatikkantā (sī. syā. pī. ka.)"
+   ]
+  },
+  {
+   "vri": 335,
+   "lines": [
+    "‘‘‘Sambuddhaṃ abhivādetvā, iddhiṃ dassesi satthuno;",
+    "Nekā nānāvidhākārā, mahāiddhīpi dassayī[[NOTE0]]."
+   ],
+   "notes": [
+    "evamādīni vatvāna, upatitvāna ambaraṃ; iddhī anekā dassesi, buddhānuññā yasodharā; (sī.)"
+   ]
+  },
+  {
+   "vri": 336,
+   "lines": [
+    "‘‘‘Cakkavāḷasamaṃ kāyaṃ, sīsaṃ uttarato kuru;",
+    "Ubho pakkhā duve dīpā, jambudīpaṃ sarīrato."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 337,
+   "lines": [
+    "‘‘‘Dakkhiṇañca saraṃ piñchaṃ, nānāsākhā tu pattakā;",
+    "Candañca sūriyañcakkhi, merupabbatato sikhaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 338,
+   "lines": [
+    "‘‘‘Cakkavālagiriṃ tuṇḍaṃ, jamburukkhaṃ samūlakaṃ;",
+    "Bījamānā upāgantvā, vandantī lokanāyakaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 339,
+   "lines": [
+    "‘‘‘Hatthivaṇṇaṃ tathevassaṃ, pabbataṃ jaladhiṃ tathā;",
+    "Candimaṃ sūriyaṃ meruṃ, sakkavaṇṇañca dassayi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 340,
+   "lines": [
+    "‘‘‘Yasodharā ahaṃ vīra, pāde vandāmi cakkhuma;",
+    "Sahassalokadhātūnaṃ, phullapadmena chādayi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 341,
+   "lines": [
+    "‘‘‘Brahmavaṇṇañca māpetvā, dhammaṃ desesi suññataṃ;",
+    "Yasodharā ahaṃ vīra, pāde vandāmi cakkhuma."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 342,
+   "lines": [
+    "‘‘‘Iddhīsu ca vasī homi, dibbāya sotadhātuyā;",
+    "Cetopariyañāṇassa, vasī homi mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 343,
+   "lines": [
+    "‘‘‘Pubbenivāsaṃ jānāmi, dibbacakkhu visodhitaṃ;",
+    "Sabbāsavaparikkhīṇā, natthi dāni punabbhavo."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 344,
+   "lines": [
+    "‘‘‘Atthadhammaniruttīsu, paṭibhāne tatheva ca;",
+    "Ñāṇaṃ mayhaṃ mahāvīra, uppannaṃ tava santike."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 345,
+   "lines": [
+    "‘‘‘Pubbānaṃ lokanāthānaṃ, saṅgamaṃ te nidassitaṃ[[NOTE0]];",
+    "Adhikāraṃ bahuṃ mayhaṃ, tuyhatthāya mahāmune."
+   ],
+   "notes": [
+    "sudassitaṃ (syā. pī. ka.)"
+   ]
+  },
+  {
+   "vri": 346,
+   "lines": [
+    "‘‘‘Yaṃ mayhaṃ pūritaṃ kammaṃ, kusalaṃ sarase mune;",
+    "Tuyhatthāya mahāvīra, puññaṃ upacitaṃ mayā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 347,
+   "lines": [
+    "‘‘‘Abhabbaṭṭhāne vajjetvā, vārayitvā anācaraṃ;",
+    "Tuyhatthāya mahāvīra, sañcattaṃ jīvitaṃ mayā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 348,
+   "lines": [
+    "‘‘‘Nekakoṭisahassāni, bhariyatthāyadāsi maṃ;",
+    "Na tattha vimanā homi, tuyhatthāya mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 349,
+   "lines": [
+    "‘‘‘Nekakoṭisahassāni, upakārāyadāsi maṃ;",
+    "Na tattha vimanā homi, tuyhatthāya mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 350,
+   "lines": [
+    "‘‘‘Nekakoṭisahassāni, bhojanatthāyadāsi maṃ;",
+    "Na tattha vimanā homi, tuyhatthāya mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 351,
+   "lines": [
+    "‘‘‘Nekakoṭisahassāni, jīvitāni pariccajiṃ;",
+    "Bhayamokkhaṃ karissanti, dadāmi mama jīvitaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 352,
+   "lines": [
+    "‘‘‘Aṅgagate[[NOTE0]] alaṅkāre, vatthe nānāvidhe bahū;",
+    "Itthimaṇḍe na gūhāmi, tuyhatthāya mahāmuni."
+   ],
+   "notes": [
+    "aṅge evaṃ (ka.)"
+   ]
+  },
+  {
+   "vri": 353,
+   "lines": [
+    "‘‘‘Dhanadhaññapariccāgaṃ, gāmāni nigamāni ca;",
+    "Khettaṃ puttā ca dhītā ca, pariccattā mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 354,
+   "lines": [
+    "‘‘‘Hatthī assā gavā cāpi, dāsiyo paricārikā;",
+    "Tuyhatthāya mahāvīra, pariccattā asaṅkhiyā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 355,
+   "lines": [
+    "‘‘‘Yaṃ mayhaṃ paṭimantesi[[NOTE0]], dānaṃ dassāmi yācake;",
+    "Vimanaṃ me na passāmi, dadato dānamuttamaṃ."
+   ],
+   "notes": [
+    "patimantesi (sī.)"
+   ]
+  },
+  {
+   "vri": 356,
+   "lines": [
+    "‘‘‘Nānāvidhaṃ bahuṃ dukkhaṃ, saṃsāre ca bahubbidhe;",
+    "Tuyhatthāya mahāvīra, anubhuttaṃ asaṅkhiyaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 357,
+   "lines": [
+    "‘‘‘Sukhappattānumodāmi, na ca dukkhesu dummanā;",
+    "Sabbattha tulitā homi, tuyhatthāya mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 358,
+   "lines": [
+    "‘‘‘Anumaggena sambuddho, yaṃ dhammaṃ abhinīhari;",
+    "Anubhotvā sukhaṃ dukkhaṃ, patto bodhiṃ mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 359,
+   "lines": [
+    "‘‘‘Brahmadevañca sambuddhaṃ, gotamaṃ lokanāyakaṃ;",
+    "Aññesaṃ lokanāthānaṃ, saṅgamaṃ te bahuṃ mayā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 360,
+   "lines": [
+    "‘‘‘Adhikāraṃ bahuṃ mayhaṃ, tuyhatthāya mahāmuni;",
+    "Gavesato buddhadhamme, ahaṃ te paricārikā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 361,
+   "lines": [
+    "‘‘‘Kappe ca satasahasse, caturo ca asaṅkhiye;",
+    "Dīpaṅkaro mahāvīro, uppajji lokanāyako."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 362,
+   "lines": [
+    "‘‘‘Paccantadesavisaye, nimantetvā tathāgataṃ;",
+    "Tassa āgamanaṃ maggaṃ, sodhenti tuṭṭhamānasā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 363,
+   "lines": [
+    "‘‘‘Tena kālena so āsi, sumedho nāma brāhmaṇo;",
+    "Maggañca paṭiyādesi, āyato[[NOTE0]] sabbadassino."
+   ],
+   "notes": [
+    "āyataṃ (sī.)"
+   ]
+  },
+  {
+   "vri": 364,
+   "lines": [
+    "‘‘‘Tena kālenahaṃ āsiṃ, kaññā brāhmaṇasambhavā;",
+    "Sumittānāma nāmena, upagacchiṃ samāgamaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 365,
+   "lines": [
+    "‘‘‘Aṭṭha uppalahatthāni, pūjanatthāya satthuno;",
+    "Ādāya janasaṃmajjhe, addasaṃ isi muggataṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 366,
+   "lines": [
+    "‘‘‘Cirānugataṃ dayitaṃ[[NOTE0]], atikkantaṃ manoharaṃ;",
+    "Disvā tadā amaññissaṃ, saphalaṃ jīvitaṃ mama."
+   ],
+   "notes": [
+    "cirānupari āsīnaṃ (sī.)"
+   ]
+  },
+  {
+   "vri": 367,
+   "lines": [
+    "‘‘‘Parakkamaṃ taṃ saphalaṃ, addasaṃ isino tadā;",
+    "Pubbakammena sambuddhe, cittañcāpi pasīdi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 368,
+   "lines": [
+    "‘‘‘Bhiyyo cittaṃ pasādesiṃ, ise uggatamānase;",
+    "Deyyaṃ aññaṃ na passāmi, demi pupphāni te isi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 369,
+   "lines": [
+    "‘‘‘Pañcahatthā tava hontu, tayo hontu mamaṃ ise;",
+    "Tena saddhiṃ samā hontu, bodhatthāya tavaṃ ise’."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 370,
+   "lines": [
+    "‘‘Isi gahetvā pupphāni, āgacchantaṃ mahāyasaṃ;",
+    "Pūjesi janasaṃmajjhe, bodhatthāya mahāisi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 371,
+   "lines": [
+    "‘‘Passitvā janasaṃmajjhe, dīpaṅkaro mahāmuni;",
+    "Viyākāsi mahāvīro, isi muggatamānasaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 372,
+   "lines": [
+    "‘‘Aparimeyye ito kappe, dīpaṅkaro mahāmuni;",
+    "Mama kammaṃ viyākāsi, ujubhāvaṃ mahāmuni."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 373,
+   "lines": [
+    "‘‘‘Samacittā samakammā, samakārī bhavissati;",
+    "Piyā hessati kammena, tuyhatthāya mahāisi[[NOTE0]]."
+   ],
+   "notes": [
+    "mahāise (syā.)"
+   ]
+  },
+  {
+   "vri": 374,
+   "lines": [
+    "‘‘‘Sudassanā supiyā ca, manāpā piyavādinī;",
+    "Tassa dhammesu dāyādā, viharissati iddhikā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 375,
+   "lines": [
+    "‘‘‘Yathāpi bhaṇḍasāmuggaṃ, anurakkhati sāmino;",
+    "Evaṃ kusaladhammānaṃ, anurakkhissate ayaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 376,
+   "lines": [
+    "‘‘‘Tassa te[[NOTE0]] anukampantī, pūrayissati pāramī;",
+    "Sīhova pañjaraṃ bhetvā[[NOTE1]], pāpuṇissati bodhiyaṃ’."
+   ],
+   "notes": [
+    "tassa taṃ (syā.)",
+    "hitvā (syā.), hetvā (pī.)"
+   ]
+  },
+  {
+   "vri": 377,
+   "lines": [
+    "‘‘Aparimeyye ito kappe, yaṃ maṃ buddho viyākarī;",
+    "Taṃ vācaṃ anumodentī, evaṃkārī bhaviṃ ahaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 378,
+   "lines": [
+    "‘‘Tassa kammassa sukatassa, tattha cittaṃ pasādayiṃ;",
+    "Devamanussakaṃ yoniṃ, anubhotvā asaṅkhiyaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 379,
+   "lines": [
+    "‘‘Sukhadukkhenubhotvāhaṃ, devesu mānusesu ca;",
+    "Pacchime bhave sampatte, ajāyiṃ sākiye kule."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 380,
+   "lines": [
+    "‘‘Rūpavatī bhogavatī, yasasīlavatī tato;",
+    "Sabbaṅgasampadā homi, kulesu abhisakkatā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 381,
+   "lines": [
+    "‘‘Lābhaṃ silokaṃ sakkāraṃ, lokadhammasamāgamaṃ;",
+    "Cittañca dukkhitaṃ natthi, vasāmi akutobhayā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 382,
+   "lines": [
+    "‘‘Vuttañhetaṃ bhagavatā, rañño antepure tadā;",
+    "Khattiyānaṃ pure vīra, upakārañca niddisi."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 383,
+   "lines": [
+    "‘‘Upakārā ca yā nārī, yā ca nārī sukhe dukhe;",
+    "Atthakkhāyī ca yā nārī, yā ca nārīnukampikā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 384,
+   "lines": [
+    "‘‘Pañcakoṭisatā buddhā, navakoṭisatāni ca;",
+    "Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 385,
+   "lines": [
+    "‘‘Adhikāraṃ mahā[[NOTE0]] mayhaṃ, dhammarāja suṇohi me;",
+    "Ekādasakoṭisatā, buddhā dvādasa koṭiyo[[NOTE1]]."
+   ],
+   "notes": [
+    "sadā (pī.) evamuparipi",
+    "honti lokagganāyakā (sī. syā.), paṇṇākoṭisatāni ca (pī.)"
+   ]
+  },
+  {
+   "vri": 386,
+   "lines": [
+    "‘‘Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 387,
+   "lines": [
+    "‘‘‘Vīsakoṭisatā buddhā, tiṃsakoṭisatāni ca;",
+    "Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 388,
+   "lines": [
+    "‘‘‘Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me;",
+    "Cattālīsakoṭisatā, paññāsa koṭisatāni ca."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 389,
+   "lines": [
+    "‘‘‘Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 390,
+   "lines": [
+    "‘‘‘Saṭṭhikoṭisatā buddhā, sattatikoṭisatāni ca;",
+    "Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 391,
+   "lines": [
+    "‘‘‘Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me;",
+    "Asītikoṭisatā buddhā, navutikoṭisatāni ca."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 392,
+   "lines": [
+    "‘‘‘Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 393,
+   "lines": [
+    "‘‘‘Koṭisatasahassāni, honti lokagganāyakā;",
+    "Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 394,
+   "lines": [
+    "‘‘‘Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me;",
+    "Navakoṭisahassāni, apare lokanāyakā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 395,
+   "lines": [
+    "‘‘‘Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 396,
+   "lines": [
+    "‘‘‘Koṭisatasahassāni, pañcāsītimahesinaṃ;",
+    "Pañcāsītikoṭisatā, sattatiṃsā ca koṭiyo."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 397,
+   "lines": [
+    "‘‘‘Etesaṃ devadevānaṃ, mahādānaṃ pavattayiṃ;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 398,
+   "lines": [
+    "‘‘‘Paccekabuddhā vītarāgā[[NOTE0]], aṭṭhaṭṭhamakakoṭiyo[[NOTE1]];",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": [
+    "dhutarāgā (pī. ka.)",
+    "aṭṭhamattaka… (sī.), aṭṭhamatthaka… (syā.)"
+   ]
+  },
+  {
+   "vri": 399,
+   "lines": [
+    "‘‘‘Khīṇāsavā vītamalā, asaṅkhiyā buddhasāvakā;",
+    "Adhikāraṃ mahā mayhaṃ, dhammarāja suṇohi me."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 400,
+   "lines": [
+    "‘‘‘Evaṃ dhamme suciṇṇānaṃ, sadā dhammassa cārinaṃ;",
+    "Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 401,
+   "lines": [
+    "‘‘‘Dhammaṃ care sucaritaṃ, na naṃ duccaritaṃ care;",
+    "Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 402,
+   "lines": [
+    "‘‘‘Nibbinditvāna saṃsāre, pabbajiṃ anagāriyaṃ;",
+    "Sahassaparivārena, pabbajitvā akiñcanā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 403,
+   "lines": [
+    "‘‘‘Agāraṃ vijahitvāna, pabbajiṃ anagāriyaṃ;",
+    "Aḍḍhamāse asampatte, catusaccamapāpuṇiṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 404,
+   "lines": [
+    "‘‘‘Cīvaraṃ piṇḍapātañca, paccayaṃ sayanāsanaṃ;",
+    "Upanenti bahū janā, sāgareyeva ūmiyo."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 405,
+   "lines": [
+    "‘‘‘Kilesā jhāpitā mayhaṃ…pe… viharāmi anāsavā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 406,
+   "lines": [
+    "‘‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 407,
+   "lines": [
+    "‘‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 408,
+   "lines": [
+    "‘‘Evaṃ bahuvidhaṃ dukkhaṃ, sampattī ca bahubbidhā;",
+    "Visuddhibhāvaṃ sampattā, labhāmi sabbasampadā."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 409,
+   "lines": [
+    "‘‘Yā dadāti sakattānaṃ, puññatthāya mahesino;",
+    "Sahāyasampadā honti, nibbānapadamasaṅkhataṃ."
+   ],
+   "notes": []
+  },
+  {
+   "vri": 410,
+   "lines": [
+    "‘‘Parikkhīṇaṃ atītañca, paccuppannaṃ anāgataṃ;",
+    "Sabbakammaṃ mamaṃ khīṇaṃ, pāde vandāmi cakkhuma’’."
+   ],
+   "notes": []
+  }
+ ],
+ "back": [
+  {
+   "rend": "centre",
+   "text": "Catutthaṃ bhāṇavāraṃ.",
+   "notes": [],
+   "after_vri": 369
+  },
+  {
+   "rend": "bodytext",
+   "text": "Itthaṃ sudaṃ yasodharā bhikkhunī bhagavato sammukhā imā gāthāyo abhāsitthāti.",
+   "notes": [],
+   "after_vri": 410
+  },
+  {
+   "rend": "centre",
+   "text": "Yasodharātheriyāpadānaṃ aṭṭhamaṃ.",
+   "notes": [],
+   "after_vri": 410
+  }
+ ],
+ "pb_removed": 30
+}
